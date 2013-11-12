@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Yusha/Cape.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {41, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {41, 95}}</string>
+			<key>sourceSize</key>
+			<string>{42, 95}</string>
+		</dict>
+		<key>Yusha/L_Arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{44, 41}, {32, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 30}}</string>
+			<key>sourceSize</key>
+			<string>{32, 30}</string>
+		</dict>
+		<key>Yusha/L_Hand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{66, 237}, {18, 29}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 29}}</string>
+			<key>sourceSize</key>
+			<string>{18, 29}</string>
+		</dict>
+		<key>Yusha/L_Leg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 98}, {22, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 28}}</string>
+			<key>sourceSize</key>
+			<string>{22, 28}</string>
+		</dict>
+		<key>Yusha/L_Thigh.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{62, 75}, {16, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 21}}</string>
+			<key>sourceSize</key>
+			<string>{16, 21}</string>
+		</dict>
+		<key>Yusha/R_Arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{76, 41}, {32, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 30}}</string>
+			<key>sourceSize</key>
+			<string>{32, 30}</string>
+		</dict>
+		<key>Yusha/R_Hand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 128}, {24, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 27}}</string>
+			<key>sourceSize</key>
+			<string>{24, 27}</string>
+		</dict>
+		<key>Yusha/R_Leg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 1}, {22, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 28}}</string>
+			<key>sourceSize</key>
+			<string>{22, 28}</string>
+		</dict>
+		<key>Yusha/R_Thigh.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{44, 75}, {16, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 21}}</string>
+			<key>sourceSize</key>
+			<string>{16, 21}</string>
+		</dict>
+		<key>Yusha/Shield.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{21, 193}, {43, 45}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 45}}</string>
+			<key>sourceSize</key>
+			<string>{43, 45}</string>
+		</dict>
+		<key>Yusha/Sword.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 193}, {18, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 60}}</string>
+			<key>sourceSize</key>
+			<string>{18, 60}</string>
+		</dict>
+		<key>Yusha/body.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{44, 1}, {38, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 38}}</string>
+			<key>sourceSize</key>
+			<string>{39, 38}</string>
+		</dict>
+		<key>Yusha/head.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 98}, {93, 71}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {93, 71}}</string>
+			<key>sourceSize</key>
+			<string>{93, 71}</string>
+		</dict>
+		<key>Yusha/waist.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{66, 193}, {42, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 21}}</string>
+			<key>sourceSize</key>
+			<string>{42, 21}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>Yusha.png</string>
+	</dict>
+</dict>
+</plist>

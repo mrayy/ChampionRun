@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Menu/BigTree.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{429, 30}, {46, 131}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 131}}</string>
+			<key>sourceSize</key>
+			<string>{46, 131}</string>
+		</dict>
+		<key>Menu/Cloud.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{477, 30}, {40, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>sourceSize</key>
+			<string>{40, 27}</string>
+		</dict>
+		<key>Menu/Kingdom_Normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 474}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/Kingdom_Press.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 374}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/QuestPressed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 270}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/Quest_Normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 270}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/SkyBackground.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {426, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {426, 240}}</string>
+			<key>sourceSize</key>
+			<string>{426, 240}</string>
+		</dict>
+		<key>Menu/Start_Normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{429, 163}, {105, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 40}}</string>
+			<key>sourceSize</key>
+			<string>{105, 40}</string>
+		</dict>
+		<key>Menu/Start_Pressed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{471, 163}, {105, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 40}}</string>
+			<key>sourceSize</key>
+			<string>{105, 40}</string>
+		</dict>
+		<key>Menu/Status_Normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 270}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/Status_Pressed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{105, 474}, {102, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 36}}</string>
+			<key>sourceSize</key>
+			<string>{102, 36}</string>
+		</dict>
+		<key>Menu/Trees.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{429, 1}, {70, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 27}}</string>
+			<key>sourceSize</key>
+			<string>{70, 27}</string>
+		</dict>
+		<key>Menu/castle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 270}, {202, 130}}</string>
+			<key>offset</key>
+			<string>{3, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 5}, {202, 130}}</string>
+			<key>sourceSize</key>
+			<string>{208, 135}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>Menu.png</string>
+	</dict>
+</dict>
+</plist>

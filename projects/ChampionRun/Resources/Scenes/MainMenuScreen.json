@@ -1,0 +1,170 @@
+{
+  "classname": "CCNode",
+  "name": null,
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10003,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 450.5,
+      "y": 282.5,
+      "zorder": 1,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "Castle",
+          "canedit": true,
+          "objecttag": 10010,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 261,
+          "y": -22,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCSprite",
+              "name": "CCSprite",
+              "file": null,
+              "fileData": {
+                "path": "img/MainMenu/castle.png",
+                "plistFile": null,
+                "resourceType": 0
+              }
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10011,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -371,
+          "y": -13,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCSprite",
+              "name": "CCSprite",
+              "file": null,
+              "fileData": {
+                "path": "img/MainMenu/BigTree.png",
+                "plistFile": null,
+                "resourceType": 0
+              }
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "Avatar",
+          "canedit": true,
+          "objecttag": 10013,
+          "rotation": 0,
+          "scalex": -0.2,
+          "scaley": 0.2,
+          "visible": 1,
+          "x": -196,
+          "y": -107,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "ani/Yusha/Yusha.ExportJson",
+                "plistFile": null,
+                "resourceType": 0
+              },
+              "selectedactionname": "stand"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "Clouds",
+          "canedit": true,
+          "objecttag": 10015,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -533,
+          "y": 205,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "img/MainMenu/SkyBackground.png",
+            "plistFile": null,
+            "resourceType": 0
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 480,
+    "_width": 960
+  },
+  "Version": "1.0.2.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "MainMenuScreen"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

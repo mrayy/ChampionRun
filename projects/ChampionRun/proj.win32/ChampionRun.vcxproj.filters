@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="..\Classes\Helpers.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WalkDetectorScene.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneManager.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainMenuLayer.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MeshBuffer.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ParallaxNodeExtra.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SplashLayer.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WalkDetectorNode.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WalkNodeBase.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WalkTrainingNode.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CommonLayer.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FANN\floatfann.c">
+      <Filter>libs\FANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FFTW\CFft.cpp">
+      <Filter>libs\FFTW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FFTW\CFftBasic.cpp">
+      <Filter>libs\FFTW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FFTW\CFftw.cpp">
+      <Filter>libs\FFTW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FFTW\kiss_fft.c">
+      <Filter>libs\FFTW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\libs\FFTW\kiss_fftr.c">
+      <Filter>libs\FFTW</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="..\Classes\Helpers.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WalkDetectorScene.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneManager.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainMenuLayer.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MeshBuffer.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ParallaxNodeExtra.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SplashLayer.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WalkDetectorNode.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WalkNodeBase.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WalkTrainingNode.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CommonLayer.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\compat_time.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\config.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\doublefann.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_activation.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_cascade.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_cpp.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_data.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_error.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_internal.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_io.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fann_train.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\fftw3.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\fixedfann.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FANN\floatfann.h">
+      <Filter>libs\FANN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\tinyxml2.h">
+      <Filter>libs\xml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\_kiss_fft_guts.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\CFft.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\CFftBasic.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\CFftw.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\fftw3.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\kiss_fft.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\libs\FFTW\kiss_fftr.h">
+      <Filter>libs\FFTW</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{0a036b25-8193-4cad-9479-283313617c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Scenes">
+      <UniqueIdentifier>{160e0a3e-b098-4700-b9fa-9fc20f69f29c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Objects">
+      <UniqueIdentifier>{4ccd6804-3599-4d74-a9d2-36e7524f299b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{60c62e03-9c4a-4e37-855d-241bcba7fc7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\FANN">
+      <UniqueIdentifier>{30e7ac60-fd93-4d2a-b1b5-70cb64b2477a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\FFTW">
+      <UniqueIdentifier>{8517f8a6-c6aa-4e09-8f55-2bce3d31f4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\xml">
+      <UniqueIdentifier>{0a55cec3-76c4-4d2c-b250-e3f61309d0b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Logo/logo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{65, 33}, {58, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {58, 54}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>Logo/logo_glow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {62, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {62, 58}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>Logo/logo_text.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{65, 1}, {60, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {60, 30}}</string>
+			<key>sourceSize</key>
+			<string>{64, 32}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>textureFileName</key>
+		<string>Logo.png</string>
+	</dict>
+</dict>
+</plist>
