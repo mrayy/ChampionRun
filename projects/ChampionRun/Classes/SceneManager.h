@@ -17,13 +17,42 @@
 USING_NS_CC;
 
 class CommonLayerLoader;
+struct ArmatureProperties
+{
+	std::string name;
+	std::string path;
+	Size scale;
 
+	bool Load(const tinyxml2::XMLElement* e)
+	{
+		const tinyxml2::XMLElement* elem;
+		elem=e->FirstChildElement("Name");
+		if (!elem)
+			return false;
+
+		name=elem->GetText();
+		elem = e->FirstChildElement("Path");
+		if (!elem)
+			return false;
+		path = elem->GetText();
+
+		elem = e->FirstChildElement("Scale");
+		if (!elem)
+			return false;
+
+		sscanf(elem->GetText(), "%f,%f", &scale.width, &scale.height);
+		return true;
+
+	}
+};
 class SceneManager
 {
     static SceneManager* s_instance;
     extension::NodeLoaderLibrary* m_loaders;
     typedef std::map<std::string,extension::CCBSelectorResolver*> ResolversMap;
+	typedef std::map<std::string, ArmatureProperties> ArmatureMap;
     ResolversMap m_resolvers;
+	ArmatureMap m_armatures;
 public:
     
     
@@ -32,6 +61,7 @@ public:
 	void InitArmatures(const std::string& desc);
 	void InitArmaturesXML(const tinyxml2::XMLElement* elem);
 
+	extension::armature::Armature* LoadArmature(const std::string& name);
 
 	void Init();
     

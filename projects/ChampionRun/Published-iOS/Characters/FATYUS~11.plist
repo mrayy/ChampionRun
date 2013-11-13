@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>yusha_dead.png</key>
+			<key>fatYusha_effect_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1200</integer>
+				<integer>83</integer>
 				<key>height</key>
-				<integer>970</integer>
+				<integer>194</integer>
 				<key>originalWidth</key>
-				<integer>1200</integer>
+				<integer>83</integer>
 				<key>originalHeight</key>
-				<integer>970</integer>
+				<integer>194</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_star.png</key>
+			<key>fatYusha_victory.png</key>
 			<dict>
 				<key>width</key>
-				<integer>180</integer>
+				<integer>187</integer>
 				<key>height</key>
-				<integer>181</integer>
+				<integer>146</integer>
 				<key>originalWidth</key>
-				<integer>180</integer>
+				<integer>187</integer>
 				<key>originalHeight</key>
-				<integer>181</integer>
+				<integer>146</integer>
 				<key>x</key>
-				<integer>1202</integer>
+				<integer>85</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -42,39 +42,39 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_victory.png</key>
+			<key>fatYusha_explosion1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>926</integer>
+				<integer>274</integer>
 				<key>height</key>
-				<integer>969</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>926</integer>
+				<integer>274</integer>
 				<key>originalHeight</key>
-				<integer>969</integer>
+				<integer>236</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>274</integer>
 				<key>y</key>
-				<integer>972</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_head.png</key>
+			<key>fatYusha_damage.png</key>
 			<dict>
 				<key>width</key>
-				<integer>749</integer>
+				<integer>322</integer>
 				<key>height</key>
-				<integer>573</integer>
+				<integer>252</integer>
 				<key>originalWidth</key>
-				<integer>749</integer>
+				<integer>322</integer>
 				<key>originalHeight</key>
-				<integer>573</integer>
+				<integer>252</integer>
 				<key>x</key>
-				<integer>928</integer>
+				<integer>550</integer>
 				<key>y</key>
-				<integer>972</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -86,18 +86,18 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>YUSHAX~10.png</string>
+			<string>FATYUS~11.png</string>
 			<key>realTextureFileName</key>
-			<string>YUSHAX~10.png</string>
+			<string>FATYUS~11.png</string>
 			<key>size</key>
-			<string>{2048,2048}</string>
+			<string>{1024,1024}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>2048</integer>
+			<integer>1024</integer>
 			<key>height</key>
-			<integer>2048</integer>
+			<integer>1024</integer>
 		</dict>
 	</dict>
 </plist>

@@ -6,13 +6,13 @@
       "name": "Yusha",
       "bone_data": [
         {
-          "name": "Layer10",
+          "name": "yusha_Layer10",
           "parent": "",
-          "x": 51.666683197021484,
-          "y": 136.66668701171875,
+          "x": -239.33334350585938,
+          "y": 528.16668701171875,
           "z": 29,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -20,7 +20,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "dead.png",
+              "name": "yusha_dead.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -36,13 +36,13 @@
           ]
         },
         {
-          "name": "Layer8",
+          "name": "yusha_Layer8",
           "parent": "",
-          "x": 381.666748046875,
-          "y": 460.00018310546875,
+          "x": 90.666717529296875,
+          "y": 851.50018310546875,
           "z": 28,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -50,7 +50,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "star.png",
+              "name": "yusha_star.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -66,13 +66,13 @@
           ]
         },
         {
-          "name": "Layer7",
+          "name": "yusha_Layer7",
           "parent": "",
-          "x": 455.00021362304688,
-          "y": -130.00003051757813,
+          "x": 164.00018310546875,
+          "y": 261.49996948242188,
           "z": 27,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -80,7 +80,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "star.png",
+              "name": "yusha_star.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -96,10 +96,10 @@
           ]
         },
         {
-          "name": "Layer6",
+          "name": "yusha_Layer6",
           "parent": "",
-          "x": -321.66668701171875,
-          "y": 583.33349609375,
+          "x": -612.666748046875,
+          "y": 974.83349609375,
           "z": 26,
           "cX": 1.0,
           "cY": 1.0,
@@ -110,7 +110,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "star.png",
+              "name": "yusha_star.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -126,13 +126,13 @@
           ]
         },
         {
-          "name": "Layer5",
+          "name": "yusha_Layer5",
           "parent": "",
-          "x": -511.66671752929688,
-          "y": 6.6666927337646484,
+          "x": -802.666748046875,
+          "y": 398.16668701171875,
           "z": 25,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -140,7 +140,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "star.png",
+              "name": "yusha_star.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -156,13 +156,13 @@
           ]
         },
         {
-          "name": "Layer3",
+          "name": "yusha_Layer3",
           "parent": "",
-          "x": 51.6667594909668,
-          "y": 130.00004577636719,
+          "x": -239.333251953125,
+          "y": 521.50006103515625,
           "z": 24,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -170,7 +170,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "victory.png",
+              "name": "yusha_victory.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -186,10 +186,10 @@
           ]
         },
         {
-          "name": "head",
+          "name": "yusha_head",
           "parent": "",
-          "x": -11.250029563903809,
-          "y": 577.4998779296875,
+          "x": -302.25006103515625,
+          "y": 968.9998779296875,
           "z": 23,
           "cX": 1.0,
           "cY": 1.0,
@@ -200,14 +200,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "head.png",
+              "name": "yusha_head.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 200.803833,
                   "y": 140.1048,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -1.56508958,
                   "kY": 1.56508946
                 }
@@ -216,10 +216,10 @@
           ]
         },
         {
-          "name": "head2",
+          "name": "yusha_head2",
           "parent": "",
-          "x": -42.499839782714844,
-          "y": 579.1666259765625,
+          "x": -333.4998779296875,
+          "y": 970.6666259765625,
           "z": 22,
           "cX": 1.0,
           "cY": 1.0,
@@ -230,14 +230,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "head2.png",
+              "name": "yusha_head2.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 209.994446,
                   "y": 112.636658,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -1.5634948,
                   "kY": 1.56350255
                 }
@@ -246,10 +246,10 @@
           ]
         },
         {
-          "name": "shield",
+          "name": "yusha_shield",
           "parent": "",
-          "x": 258.7498779296875,
-          "y": 4.9998970031738281,
+          "x": -32.250152587890625,
+          "y": 396.4998779296875,
           "z": 21,
           "cX": 1.0,
           "cY": 1.0,
@@ -260,14 +260,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "Shield.png",
+              "name": "yusha_Shield.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 146.353912,
                   "y": 16.1793823,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -0.979637,
                   "kY": 0.9796345
                 }
@@ -276,13 +276,13 @@
           ]
         },
         {
-          "name": "Layer1",
+          "name": "yusha_Layer1",
           "parent": "",
-          "x": -18.749908447265625,
-          "y": 140.0,
+          "x": -309.74993896484375,
+          "y": 531.5,
           "z": 20,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -290,7 +290,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "attack2.png",
+              "name": "yusha_attack2.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -306,13 +306,13 @@
           ]
         },
         {
-          "name": "Layer11",
+          "name": "yusha_Layer11",
           "parent": "",
-          "x": 171.24993896484375,
-          "y": 172.49990844726563,
+          "x": -119.75009155273438,
+          "y": 563.9998779296875,
           "z": 19,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -320,7 +320,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "attack1 (1).png",
+              "name": "yusha_attack1 (1).png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -336,10 +336,10 @@
           ]
         },
         {
-          "name": "larm",
+          "name": "yusha_larm",
           "parent": "",
-          "x": 162.33329772949219,
-          "y": 129.91665649414063,
+          "x": -128.66673278808594,
+          "y": 521.4166259765625,
           "z": 12,
           "cX": 1.0,
           "cY": 1.0,
@@ -350,14 +350,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "L_Arm.png",
+              "name": "yusha_L_Arm.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 112.919739,
                   "y": 26.4515114,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -0.816639066,
                   "kY": 0.8166364
                 }
@@ -366,10 +366,10 @@
           ]
         },
         {
-          "name": "lhand",
-          "parent": "larm",
-          "x": 160.62635803222656,
-          "y": -4.9688730239868164,
+          "name": "yusha_lhand",
+          "parent": "yusha_larm",
+          "x": 160.62643432617188,
+          "y": -4.9688034057617188,
           "z": 18,
           "cX": 1.0,
           "cY": 1.0,
@@ -380,14 +380,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "L_Hand.png",
+              "name": "yusha_L_Hand.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 87.95373,
                   "y": -11.6370621,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -1.39292133,
                   "kY": 1.392919
                 }
@@ -396,10 +396,10 @@
           ]
         },
         {
-          "name": "body",
+          "name": "yusha_body",
           "parent": "",
-          "x": 10.099481582641602,
-          "y": 146.29881286621094,
+          "x": -280.90054321289062,
+          "y": 537.798828125,
           "z": 10,
           "cX": 1.0,
           "cY": 1.0,
@@ -410,14 +410,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "body.png",
+              "name": "yusha_body.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 138.427872,
                   "y": 3.241005,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": -1.54595625,
                   "kY": 1.54595244
                 }
@@ -426,8 +426,8 @@
           ]
         },
         {
-          "name": "waist",
-          "parent": "body",
+          "name": "yusha_waist",
+          "parent": "yusha_body",
           "x": 266.00424194335938,
           "y": -0.24513864517211914,
           "z": 11,
@@ -440,14 +440,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "waist.png",
+              "name": "yusha_waist.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 43.03009,
                   "y": 11.2335815,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.68382549,
                   "kY": 1.59936082
                 }
@@ -456,8 +456,8 @@
           ]
         },
         {
-          "name": "lthigh",
-          "parent": "waist",
+          "name": "yusha_lthigh",
+          "parent": "yusha_waist",
           "x": 59.862087249755859,
           "y": 121.43222045898438,
           "z": 17,
@@ -470,14 +470,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "R_Thigh.png",
+              "name": "yusha_R_Thigh.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 73.18811,
                   "y": 4.90533447,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.62274265,
                   "kY": 1.66043973
                 }
@@ -486,10 +486,10 @@
           ]
         },
         {
-          "name": "lleg",
-          "parent": "lthigh",
-          "x": 135.66241455078125,
-          "y": -1.1415841579437256,
+          "name": "yusha_lleg",
+          "parent": "yusha_lthigh",
+          "x": 135.66244506835938,
+          "y": -1.1416374444961548,
           "z": 15,
           "cX": 1.0,
           "cY": 1.0,
@@ -500,14 +500,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "leg.png",
+              "name": "yusha_leg.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 101.5385,
                   "y": 5.36895752,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.675955,
                   "kY": 1.60722709
                 }
@@ -516,10 +516,10 @@
           ]
         },
         {
-          "name": "lfoot",
-          "parent": "lleg",
+          "name": "yusha_lfoot",
+          "parent": "yusha_lleg",
           "x": 162.41111755371094,
-          "y": 34.016403198242188,
+          "y": 34.016376495361328,
           "z": 16,
           "cX": 1.0,
           "cY": 1.0,
@@ -530,14 +530,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "foot.png",
+              "name": "yusha_foot.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 51.30951,
                   "y": 6.919983,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 3.58660984,
                   "kY": 2.69657636
                 }
@@ -546,8 +546,8 @@
           ]
         },
         {
-          "name": "rthigh",
-          "parent": "waist",
+          "name": "yusha_rthigh",
+          "parent": "yusha_waist",
           "x": 60.340404510498047,
           "y": -99.0780029296875,
           "z": 4,
@@ -560,14 +560,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "L_Thigh.png",
+              "name": "yusha_L_Thigh.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 78.37689,
                   "y": 2.06915283,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 0.9999999,
+                  "cY": 0.9999999,
                   "kX": 4.643468,
                   "kY": 1.63972139
                 }
@@ -576,8 +576,8 @@
           ]
         },
         {
-          "name": "rleg",
-          "parent": "rthigh",
+          "name": "yusha_rleg",
+          "parent": "yusha_rthigh",
           "x": 136.87289428710938,
           "y": -0.5400930643081665,
           "z": 13,
@@ -590,14 +590,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "leg.png",
+              "name": "yusha_leg.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 96.64616,
                   "y": 3.88317871,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.63776159,
                   "kY": 1.64542758
                 }
@@ -606,10 +606,10 @@
           ]
         },
         {
-          "name": "rfoot",
-          "parent": "rleg",
-          "x": 149.00494384765625,
-          "y": 14.758709907531738,
+          "name": "yusha_rfoot",
+          "parent": "yusha_rleg",
+          "x": 149.00492858886719,
+          "y": 14.7586669921875,
           "z": 14,
           "cX": 1.0,
           "cY": 1.0,
@@ -620,14 +620,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "foot.png",
+              "name": "yusha_foot.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 47.1036453,
                   "y": 2.49971,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
                   "kX": 3.64717531,
                   "kY": 2.6360116
                 }
@@ -636,10 +636,10 @@
           ]
         },
         {
-          "name": "rarm",
+          "name": "yusha_rarm",
           "parent": "",
-          "x": -109.60939788818359,
-          "y": 106.39246368408203,
+          "x": -400.60943603515625,
+          "y": 497.8924560546875,
           "z": 8,
           "cX": 1.0,
           "cY": 1.0,
@@ -650,14 +650,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "R_Arm.png",
+              "name": "yusha_R_Arm.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 92.03381,
                   "y": -36.24492,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.00376129,
                   "kY": 2.27942419
                 }
@@ -666,8 +666,8 @@
           ]
         },
         {
-          "name": "rhand",
-          "parent": "rarm",
+          "name": "yusha_rhand",
+          "parent": "yusha_rarm",
           "x": 186.73982238769531,
           "y": 0.66766154766082764,
           "z": 9,
@@ -680,14 +680,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "R_Hand.png",
+              "name": "yusha_R_Hand.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 98.42135,
                   "y": 0.322917938,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 4.11234045,
                   "kY": 2.17084479
                 }
@@ -696,10 +696,10 @@
           ]
         },
         {
-          "name": "sword",
-          "parent": "rhand",
-          "x": 180.693359375,
-          "y": -0.15425252914428711,
+          "name": "yusha_sword",
+          "parent": "yusha_rhand",
+          "x": 180.69342041015625,
+          "y": -0.15420660376548767,
           "z": 7,
           "cX": 1.0,
           "cY": 1.0,
@@ -710,14 +710,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "Sword.png",
+              "name": "yusha_Sword.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 196.7422,
                   "y": 1.49872589,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
                   "kX": 1.55637419,
                   "kY": -1.55637622
                 }
@@ -726,10 +726,10 @@
           ]
         },
         {
-          "name": "Layer4",
+          "name": "yusha_Layer4",
           "parent": "",
-          "x": -516.25,
-          "y": 52.499984741210938,
+          "x": -807.25,
+          "y": 444.0,
           "z": 6,
           "cX": 1.0,
           "cY": 1.0,
@@ -740,7 +740,7 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "effect_2.png",
+              "name": "yusha_effect_2.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -756,13 +756,13 @@
           ]
         },
         {
-          "name": "Layer2",
+          "name": "yusha_Layer2",
           "parent": "",
-          "x": 1076.2501220703125,
-          "y": 310.00003051757812,
+          "x": 785.2501220703125,
+          "y": 701.5,
           "z": 5,
-          "cX": 3.0,
-          "cY": 3.0,
+          "cX": 1.0,
+          "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
           "arrow_x": 0.0,
@@ -770,7 +770,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "attack3.png",
+              "name": "yusha_attack3.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -786,10 +786,10 @@
           ]
         },
         {
-          "name": "cape",
+          "name": "yusha_cape",
           "parent": "",
-          "x": 14.166496276855469,
-          "y": 144.99984741210938,
+          "x": -276.83352661132812,
+          "y": 536.4998779296875,
           "z": 3,
           "cX": 1.0,
           "cY": 1.0,
@@ -800,14 +800,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "Cape.png",
+              "name": "yusha_Cape.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 332.503754,
                   "y": 30.9642372,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
                   "kX": 4.331093,
                   "kY": 1.95210028
                 }
@@ -816,10 +816,10 @@
           ]
         },
         {
-          "name": "Layer18",
+          "name": "yusha_Layer18",
           "parent": "",
-          "x": 18.333404541015625,
-          "y": 73.333343505859375,
+          "x": -272.6666259765625,
+          "y": 464.83334350585938,
           "z": 2,
           "cX": 1.0,
           "cY": 1.0,
@@ -830,14 +830,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "blood1.png",
+              "name": "yusha_blood1.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 352.769348,
                   "y": -37.83763,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
                   "kX": 0.5746967,
                   "kY": -0.5746999
                 }
@@ -846,10 +846,10 @@
           ]
         },
         {
-          "name": "Layer14",
+          "name": "yusha_Layer14",
           "parent": "",
-          "x": -91.666641235351562,
-          "y": 76.666702270507812,
+          "x": -382.66665649414062,
+          "y": 468.16668701171875,
           "z": 1,
           "cX": 1.0,
           "cY": 1.0,
@@ -860,14 +860,14 @@
           "effectbyskeleton": true,
           "display_data": [
             {
-              "name": "blood2.png",
+              "name": "yusha_blood2.png",
               "displayType": 0,
               "skin_data": [
                 {
                   "x": 327.0194,
                   "y": 40.17354,
-                  "cX": 3.0,
-                  "cY": 3.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
                   "kX": 2.56929159,
                   "kY": -2.5692935
                 }
@@ -885,14 +885,14 @@
         {
           "name": "attack",
           "dr": 60,
-          "lp": false,
+          "lp": true,
           "to": 0,
           "drTW": 0,
           "twE": 0,
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "Layer10",
+              "name": "yusha_Layer10",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -911,7 +911,7 @@
               ]
             },
             {
-              "name": "Layer8",
+              "name": "yusha_Layer8",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -930,7 +930,7 @@
               ]
             },
             {
-              "name": "Layer6",
+              "name": "yusha_Layer7",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -949,7 +949,7 @@
               ]
             },
             {
-              "name": "Layer5",
+              "name": "yusha_Layer6",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -968,7 +968,7 @@
               ]
             },
             {
-              "name": "Layer3",
+              "name": "yusha_Layer5",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -987,7 +987,26 @@
               ]
             },
             {
-              "name": "head",
+              "name": "yusha_Layer3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "yusha_head",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1097,7 +1116,26 @@
               ]
             },
             {
-              "name": "shield",
+              "name": "yusha_head2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "yusha_shield",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1233,7 +1271,7 @@
               ]
             },
             {
-              "name": "Layer1",
+              "name": "yusha_Layer1",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1304,7 +1342,7 @@
               ]
             },
             {
-              "name": "Layer11",
+              "name": "yusha_Layer11",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1363,27 +1401,6 @@
                   "cY": 1.0,
                   "kX": 0.104719758,
                   "kY": -0.104719758,
-                  "fi": 17,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "color": [
-                    {
-                      "a": 255,
-                      "r": 255,
-                      "g": 255,
-                      "b": 255
-                    }
-                  ]
-                },
-                {
-                  "dI": 0,
-                  "x": -25.0,
-                  "y": -10.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.104719758,
-                  "kY": -0.104719758,
                   "fi": 25,
                   "twE": 0,
                   "tweenFrame": true,
@@ -1420,7 +1437,7 @@
               ]
             },
             {
-              "name": "lhand",
+              "name": "yusha_lhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1673,7 +1690,7 @@
               ]
             },
             {
-              "name": "lthigh",
+              "name": "yusha_lthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1791,7 +1808,7 @@
               ]
             },
             {
-              "name": "lfoot",
+              "name": "yusha_lfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1901,7 +1918,7 @@
               ]
             },
             {
-              "name": "lleg",
+              "name": "yusha_lleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2011,7 +2028,7 @@
               ]
             },
             {
-              "name": "rfoot",
+              "name": "yusha_rfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2121,7 +2138,7 @@
               ]
             },
             {
-              "name": "rleg",
+              "name": "yusha_rleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2231,7 +2248,7 @@
               ]
             },
             {
-              "name": "larm",
+              "name": "yusha_larm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2380,7 +2397,7 @@
               ]
             },
             {
-              "name": "waist",
+              "name": "yusha_waist",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2490,7 +2507,7 @@
               ]
             },
             {
-              "name": "body",
+              "name": "yusha_body",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2616,7 +2633,7 @@
               ]
             },
             {
-              "name": "rhand",
+              "name": "yusha_rhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2726,7 +2743,7 @@
               ]
             },
             {
-              "name": "rarm",
+              "name": "yusha_rarm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2852,7 +2869,7 @@
               ]
             },
             {
-              "name": "sword",
+              "name": "yusha_sword",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2962,9 +2979,22 @@
               ]
             },
             {
-              "name": "Layer4",
+              "name": "yusha_Layer4",
               "dl": 0.0,
               "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 355.00006103515625,
+                  "y": 535.0001220703125,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.25391543,
+                  "kY": -1.25391543,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
                 {
                   "dI": -2,
                   "x": 355.00006103515625,
@@ -3124,7 +3154,26 @@
               ]
             },
             {
-              "name": "rthigh",
+              "name": "yusha_Layer2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "yusha_rthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3234,7 +3283,7 @@
               ]
             },
             {
-              "name": "cape",
+              "name": "yusha_cape",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3342,6 +3391,44 @@
                   "tweenFrame": true
                 }
               ]
+            },
+            {
+              "name": "yusha_Layer18",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "yusha_Layer14",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
             }
           ]
         },
@@ -3355,7 +3442,7 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "head",
+              "name": "yusha_head",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3400,7 +3487,7 @@
               ]
             },
             {
-              "name": "shield",
+              "name": "yusha_shield",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3445,7 +3532,7 @@
               ]
             },
             {
-              "name": "lhand",
+              "name": "yusha_lhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3490,7 +3577,7 @@
               ]
             },
             {
-              "name": "lthigh",
+              "name": "yusha_lthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3559,7 +3646,7 @@
               ]
             },
             {
-              "name": "lfoot",
+              "name": "yusha_lfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3604,7 +3691,7 @@
               ]
             },
             {
-              "name": "lleg",
+              "name": "yusha_lleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3649,7 +3736,7 @@
               ]
             },
             {
-              "name": "rfoot",
+              "name": "yusha_rfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3694,7 +3781,7 @@
               ]
             },
             {
-              "name": "rleg",
+              "name": "yusha_rleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3739,7 +3826,7 @@
               ]
             },
             {
-              "name": "larm",
+              "name": "yusha_larm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3784,7 +3871,7 @@
               ]
             },
             {
-              "name": "waist",
+              "name": "yusha_waist",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3837,7 +3924,7 @@
               ]
             },
             {
-              "name": "body",
+              "name": "yusha_body",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3906,7 +3993,7 @@
               ]
             },
             {
-              "name": "rhand",
+              "name": "yusha_rhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -3951,7 +4038,7 @@
               ]
             },
             {
-              "name": "rarm",
+              "name": "yusha_rarm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4020,7 +4107,7 @@
               ]
             },
             {
-              "name": "sword",
+              "name": "yusha_sword",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4065,7 +4152,7 @@
               ]
             },
             {
-              "name": "rthigh",
+              "name": "yusha_rthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4110,7 +4197,7 @@
               ]
             },
             {
-              "name": "cape",
+              "name": "yusha_cape",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4182,7 +4269,7 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "head2",
+              "name": "yusha_head2",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4227,7 +4314,7 @@
               ]
             },
             {
-              "name": "shield",
+              "name": "yusha_shield",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4298,7 +4385,7 @@
               ]
             },
             {
-              "name": "lhand",
+              "name": "yusha_lhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4356,7 +4443,7 @@
               ]
             },
             {
-              "name": "lthigh",
+              "name": "yusha_lthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4409,7 +4496,7 @@
               ]
             },
             {
-              "name": "lfoot",
+              "name": "yusha_lfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4454,7 +4541,7 @@
               ]
             },
             {
-              "name": "lleg",
+              "name": "yusha_lleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4499,7 +4586,7 @@
               ]
             },
             {
-              "name": "rfoot",
+              "name": "yusha_rfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4560,7 +4647,7 @@
               ]
             },
             {
-              "name": "rleg",
+              "name": "yusha_rleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4605,7 +4692,7 @@
               ]
             },
             {
-              "name": "larm",
+              "name": "yusha_larm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4663,7 +4750,7 @@
               ]
             },
             {
-              "name": "waist",
+              "name": "yusha_waist",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4708,7 +4795,7 @@
               ]
             },
             {
-              "name": "body",
+              "name": "yusha_body",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4761,7 +4848,7 @@
               ]
             },
             {
-              "name": "rhand",
+              "name": "yusha_rhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4806,7 +4893,7 @@
               ]
             },
             {
-              "name": "rarm",
+              "name": "yusha_rarm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4859,7 +4946,7 @@
               ]
             },
             {
-              "name": "sword",
+              "name": "yusha_sword",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -4956,22 +5043,9 @@
               ]
             },
             {
-              "name": "Layer2",
+              "name": "yusha_Layer2",
               "dl": 0.0,
               "frame_data": [
-                {
-                  "dI": -2,
-                  "x": -1080.0003662109375,
-                  "y": 3.0517578125E-05,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 0,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
                 {
                   "dI": -2,
                   "x": -1080.0003662109375,
@@ -5038,7 +5112,7 @@
               ]
             },
             {
-              "name": "rthigh",
+              "name": "yusha_rthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5083,7 +5157,7 @@
               ]
             },
             {
-              "name": "cape",
+              "name": "yusha_cape",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5147,7 +5221,7 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "head",
+              "name": "yusha_head",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5218,7 +5292,7 @@
               ]
             },
             {
-              "name": "shield",
+              "name": "yusha_shield",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5289,7 +5363,7 @@
               ]
             },
             {
-              "name": "lhand",
+              "name": "yusha_lhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5360,7 +5434,7 @@
               ]
             },
             {
-              "name": "lthigh",
+              "name": "yusha_lthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5439,7 +5513,7 @@
               ]
             },
             {
-              "name": "lfoot",
+              "name": "yusha_lfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5510,7 +5584,7 @@
               ]
             },
             {
-              "name": "lleg",
+              "name": "yusha_lleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5581,7 +5655,7 @@
               ]
             },
             {
-              "name": "rfoot",
+              "name": "yusha_rfoot",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5652,7 +5726,7 @@
               ]
             },
             {
-              "name": "rleg",
+              "name": "yusha_rleg",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5723,7 +5797,7 @@
               ]
             },
             {
-              "name": "larm",
+              "name": "yusha_larm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5794,7 +5868,7 @@
               ]
             },
             {
-              "name": "waist",
+              "name": "yusha_waist",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5865,7 +5939,7 @@
               ]
             },
             {
-              "name": "body",
+              "name": "yusha_body",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -5952,7 +6026,7 @@
               ]
             },
             {
-              "name": "rhand",
+              "name": "yusha_rhand",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6023,7 +6097,7 @@
               ]
             },
             {
-              "name": "rarm",
+              "name": "yusha_rarm",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6110,7 +6184,7 @@
               ]
             },
             {
-              "name": "sword",
+              "name": "yusha_sword",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6181,7 +6255,7 @@
               ]
             },
             {
-              "name": "rthigh",
+              "name": "yusha_rthigh",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6252,7 +6326,7 @@
               ]
             },
             {
-              "name": "cape",
+              "name": "yusha_cape",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6350,7 +6424,7 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "Layer8",
+              "name": "yusha_Layer8",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6421,7 +6495,7 @@
               ]
             },
             {
-              "name": "Layer7",
+              "name": "yusha_Layer7",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6492,7 +6566,7 @@
               ]
             },
             {
-              "name": "Layer6",
+              "name": "yusha_Layer6",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6563,7 +6637,7 @@
               ]
             },
             {
-              "name": "Layer5",
+              "name": "yusha_Layer5",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6634,7 +6708,7 @@
               ]
             },
             {
-              "name": "Layer3",
+              "name": "yusha_Layer3",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6670,14 +6744,14 @@
         {
           "name": "dead",
           "dr": 30,
-          "lp": false,
+          "lp": true,
           "to": 0,
           "drTW": 0,
           "twE": 0,
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "Layer10",
+              "name": "yusha_Layer10",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6696,7 +6770,7 @@
               ]
             },
             {
-              "name": "Layer18",
+              "name": "yusha_Layer18",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6728,7 +6802,7 @@
               ]
             },
             {
-              "name": "Layer14",
+              "name": "yusha_Layer14",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -6766,71 +6840,71 @@
   ],
   "texture_data": [
     {
-      "name": "body",
-      "width": 95.0,
-      "height": 93.0,
+      "name": "yusha_body",
+      "width": 318.0,
+      "height": 309.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "L_Arm",
-      "width": 79.0,
-      "height": 73.0,
+      "name": "yusha_L_Arm",
+      "width": 263.0,
+      "height": 242.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "head",
-      "width": 225.0,
-      "height": 172.0,
+      "name": "yusha_head",
+      "width": 749.0,
+      "height": 573.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "L_Hand",
-      "width": 44.0,
-      "height": 71.0,
+      "name": "yusha_L_Hand",
+      "width": 146.0,
+      "height": 238.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "R_Arm",
-      "width": 79.0,
-      "height": 73.0,
+      "name": "yusha_R_Arm",
+      "width": 263.0,
+      "height": 242.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "R_Hand",
-      "width": 59.0,
-      "height": 66.0,
+      "name": "yusha_R_Hand",
+      "width": 198.0,
+      "height": 220.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "waist",
-      "width": 103.0,
-      "height": 51.0,
+      "name": "yusha_waist",
+      "width": 342.0,
+      "height": 170.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "L_Thigh",
-      "width": 39.0,
-      "height": 51.0,
+      "name": "yusha_L_Thigh",
+      "width": 131.0,
+      "height": 169.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "L_Leg",
+      "name": "yusha_L_Leg",
       "width": 181.0,
       "height": 227.0,
       "pX": 0.5,
@@ -6838,15 +6912,15 @@
       "plistFile": ""
     },
     {
-      "name": "R_Thigh",
-      "width": 39.0,
-      "height": 51.0,
+      "name": "yusha_R_Thigh",
+      "width": 131.0,
+      "height": 169.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "R_Leg",
+      "name": "yusha_R_Leg",
       "width": 180.0,
       "height": 227.0,
       "pX": 0.5,
@@ -6854,31 +6928,31 @@
       "plistFile": ""
     },
     {
-      "name": "Shield",
-      "width": 105.0,
-      "height": 108.0,
+      "name": "yusha_Shield",
+      "width": 349.0,
+      "height": 360.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "Sword",
-      "width": 44.0,
-      "height": 145.0,
+      "name": "yusha_Sword",
+      "width": 145.0,
+      "height": 483.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "Cape",
-      "width": 101.0,
-      "height": 230.0,
+      "name": "yusha_Cape",
+      "width": 336.0,
+      "height": 767.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "effect_2",
+      "name": "yusha_effect_2",
       "width": 83.0,
       "height": 194.0,
       "pX": 0.5,
@@ -6886,7 +6960,7 @@
       "plistFile": ""
     },
     {
-      "name": "attack1 (1)",
+      "name": "yusha_attack1 (1)",
       "width": 1044.0,
       "height": 1061.0,
       "pX": 0.5,
@@ -6894,23 +6968,23 @@
       "plistFile": ""
     },
     {
-      "name": "foot",
-      "width": 53.0,
-      "height": 36.0,
+      "name": "yusha_foot",
+      "width": 177.0,
+      "height": 119.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "leg",
-      "width": 30.0,
-      "height": 66.0,
+      "name": "yusha_leg",
+      "width": 99.0,
+      "height": 220.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "attack2",
+      "name": "yusha_attack2",
       "width": 1322.0,
       "height": 1043.0,
       "pX": 0.5,
@@ -6918,15 +6992,15 @@
       "plistFile": ""
     },
     {
-      "name": "head2",
-      "width": 205.0,
-      "height": 172.0,
+      "name": "yusha_head2",
+      "width": 682.0,
+      "height": 572.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "attack3",
+      "name": "yusha_attack3",
       "width": 1434.0,
       "height": 1336.0,
       "pX": 0.5,
@@ -6934,7 +7008,7 @@
       "plistFile": ""
     },
     {
-      "name": "run1",
+      "name": "yusha_run1",
       "width": 1137.0,
       "height": 937.0,
       "pX": 0.5,
@@ -6942,7 +7016,7 @@
       "plistFile": ""
     },
     {
-      "name": "run2",
+      "name": "yusha_run2",
       "width": 1059.0,
       "height": 999.0,
       "pX": 0.5,
@@ -6950,41 +7024,41 @@
       "plistFile": ""
     },
     {
-      "name": "victory",
-      "width": 278.0,
-      "height": 291.0,
+      "name": "yusha_victory",
+      "width": 926.0,
+      "height": 969.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "star",
-      "width": 54.0,
-      "height": 54.0,
+      "name": "yusha_star",
+      "width": 180.0,
+      "height": 181.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "dead",
-      "width": 360.0,
-      "height": 291.0,
+      "name": "yusha_dead",
+      "width": 1200.0,
+      "height": 970.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "blood1",
-      "width": 202.0,
-      "height": 113.0,
+      "name": "yusha_blood1",
+      "width": 672.0,
+      "height": 377.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "blood2",
-      "width": 202.0,
-      "height": 113.0,
+      "name": "yusha_blood2",
+      "width": 672.0,
+      "height": 377.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
@@ -6992,6 +7066,8 @@
   ],
   "config_file_path": [
     "YUSHAX~10.plist",
-    "YUSHAX~11.plist"
+    "YUSHAX~11.plist",
+    "YUSHAX~12.plist",
+    "YUSHAX~13.plist"
   ]
 }

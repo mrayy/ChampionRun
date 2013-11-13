@@ -56,14 +56,31 @@ void SceneManager::InitArmatures(const std::string& desc)
 }
 void SceneManager::InitArmaturesXML(const tinyxml2::XMLElement* root)
 {
+	ArmatureProperties props;
 	const tinyxml2::XMLElement* elem= root->FirstChildElement("Armature");
 	while (elem)
 	{
-		armature::ArmatureDataManager::getInstance()->addArmatureFileInfo(elem->GetText());
+		if (props.Load(elem))
+		{
+			armature::ArmatureDataManager::getInstance()->addArmatureFileInfo(props.path.c_str());
+			m_armatures[props.name] = props;
+		}
 		elem = elem->NextSiblingElement("Armature");
 	}
 
 }
+
+armature::Armature* SceneManager::LoadArmature(const std::string& name)
+{
+	ArmatureMap::iterator it = m_armatures.find(name);
+	if (it == m_armatures.end())
+		return 0;
+	armature::Armature* ret = armature::Armature::create(name.c_str());
+	ret->setScaleX(it->second.scale.width);
+	ret->setScaleY(it->second.scale.height);
+	return ret;
+}
+
 
 void SceneManager::registerDefaults()
 {

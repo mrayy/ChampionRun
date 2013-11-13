@@ -149,7 +149,6 @@ xcopy /Y /Q "$(ProjectDir)..\..\..\external\libwebsockets\win32\lib\*.*" "$(OutD
     <ClCompile Include="..\Classes\ParallaxNodeExtra.cpp" />
     <ClCompile Include="..\Classes\SceneManager.cpp" />
     <ClCompile Include="..\Classes\SplashLayer.cpp" />
-    <ClCompile Include="..\Classes\WalkDetectorNode.cpp" />
     <ClCompile Include="..\Classes\WalkDetectorScene.cpp" />
     <ClCompile Include="..\Classes\WalkNodeBase.cpp" />
     <ClCompile Include="..\Classes\WalkTrainingNode.cpp" />
@@ -188,11 +187,12 @@ xcopy /Y /Q "$(ProjectDir)..\..\..\external\libwebsockets\win32\lib\*.*" "$(OutD
     <ClInclude Include="..\Classes\SceneManager.h" />
     <ClInclude Include="..\Classes\SplashLayer.h" />
     <ClInclude Include="..\Classes\UIEvents.h" />
-    <ClInclude Include="..\Classes\WalkDetectorNode.h" />
     <ClInclude Include="..\Classes\WalkDetectorScene.h" />
     <ClInclude Include="..\Classes\WalkNodeBase.h" />
     <ClInclude Include="..\Classes\WalkTrainingNode.h" />
+    <ClInclude Include="CQuestDescription.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="QuestItemNode.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\cocos2dx\proj.win32\cocos2d.vcxproj">

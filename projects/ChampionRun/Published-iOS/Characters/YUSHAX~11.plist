@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>effect_2.png</key>
+			<key>yusha_head2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>83</integer>
+				<integer>682</integer>
 				<key>height</key>
-				<integer>194</integer>
+				<integer>572</integer>
 				<key>originalWidth</key>
-				<integer>83</integer>
+				<integer>682</integer>
 				<key>originalHeight</key>
-				<integer>194</integer>
+				<integer>572</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>attack3.png</key>
+			<key>yusha_Shield.png</key>
 			<dict>
 				<key>width</key>
-				<integer>430</integer>
+				<integer>349</integer>
 				<key>height</key>
-				<integer>401</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>430</integer>
+				<integer>349</integer>
 				<key>originalHeight</key>
-				<integer>401</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>85</integer>
+				<integer>684</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -42,58 +42,191 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>Cape.png</key>
+			<key>yusha_attack2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>101</integer>
+				<integer>1322</integer>
 				<key>height</key>
-				<integer>230</integer>
+				<integer>1043</integer>
 				<key>originalWidth</key>
-				<integer>101</integer>
+				<integer>1322</integer>
 				<key>originalHeight</key>
-				<integer>230</integer>
+				<integer>1043</integer>
 				<key>x</key>
-				<integer>517</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>574</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>blood1.png</key>
+			<key>yusha_L_Hand.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>146</integer>
 				<key>height</key>
-				<integer>113</integer>
+				<integer>238</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>146</integer>
 				<key>originalHeight</key>
-				<integer>113</integer>
+				<integer>238</integer>
 				<key>x</key>
-				<integer>620</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>1619</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>blood2.png</key>
+			<key>yusha_R_Thigh.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>131</integer>
 				<key>height</key>
-				<integer>113</integer>
+				<integer>169</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>131</integer>
 				<key>originalHeight</key>
-				<integer>113</integer>
+				<integer>169</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>148</integer>
 				<key>y</key>
-				<integer>403</integer>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_foot.png</key>
+			<dict>
+				<key>width</key>
+				<integer>177</integer>
+				<key>height</key>
+				<integer>119</integer>
+				<key>originalWidth</key>
+				<integer>177</integer>
+				<key>originalHeight</key>
+				<integer>119</integer>
+				<key>x</key>
+				<integer>281</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_leg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>99</integer>
+				<key>height</key>
+				<integer>220</integer>
+				<key>originalWidth</key>
+				<integer>99</integer>
+				<key>originalHeight</key>
+				<integer>220</integer>
+				<key>x</key>
+				<integer>460</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_L_Arm.png</key>
+			<dict>
+				<key>width</key>
+				<integer>263</integer>
+				<key>height</key>
+				<integer>242</integer>
+				<key>originalWidth</key>
+				<integer>263</integer>
+				<key>originalHeight</key>
+				<integer>242</integer>
+				<key>x</key>
+				<integer>561</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_waist.png</key>
+			<dict>
+				<key>width</key>
+				<integer>342</integer>
+				<key>height</key>
+				<integer>170</integer>
+				<key>originalWidth</key>
+				<integer>342</integer>
+				<key>originalHeight</key>
+				<integer>170</integer>
+				<key>x</key>
+				<integer>826</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_body.png</key>
+			<dict>
+				<key>width</key>
+				<integer>318</integer>
+				<key>height</key>
+				<integer>309</integer>
+				<key>originalWidth</key>
+				<integer>318</integer>
+				<key>originalHeight</key>
+				<integer>309</integer>
+				<key>x</key>
+				<integer>1170</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_R_Hand.png</key>
+			<dict>
+				<key>width</key>
+				<integer>198</integer>
+				<key>height</key>
+				<integer>220</integer>
+				<key>originalWidth</key>
+				<integer>198</integer>
+				<key>originalHeight</key>
+				<integer>220</integer>
+				<key>x</key>
+				<integer>1490</integer>
+				<key>y</key>
+				<integer>1619</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>yusha_R_Arm.png</key>
+			<dict>
+				<key>width</key>
+				<integer>263</integer>
+				<key>height</key>
+				<integer>242</integer>
+				<key>originalWidth</key>
+				<integer>263</integer>
+				<key>originalHeight</key>
+				<integer>242</integer>
+				<key>x</key>
+				<integer>1690</integer>
+				<key>y</key>
+				<integer>1619</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -109,14 +242,14 @@
 			<key>realTextureFileName</key>
 			<string>YUSHAX~11.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

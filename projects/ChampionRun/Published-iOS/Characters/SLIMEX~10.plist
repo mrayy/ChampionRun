@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>yusha_dead.png</key>
+			<key>slime_crown.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1200</integer>
+				<integer>267</integer>
 				<key>height</key>
-				<integer>970</integer>
+				<integer>222</integer>
 				<key>originalWidth</key>
-				<integer>1200</integer>
+				<integer>267</integer>
 				<key>originalHeight</key>
-				<integer>970</integer>
+				<integer>222</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_star.png</key>
+			<key>slime_damage3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>180</integer>
+				<integer>1018</integer>
 				<key>height</key>
-				<integer>181</integer>
+				<integer>1281</integer>
 				<key>originalWidth</key>
-				<integer>180</integer>
+				<integer>1018</integer>
 				<key>originalHeight</key>
-				<integer>181</integer>
+				<integer>1281</integer>
 				<key>x</key>
-				<integer>1202</integer>
+				<integer>269</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -42,39 +42,39 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_victory.png</key>
+			<key>slime_attack2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>926</integer>
+				<integer>243</integer>
 				<key>height</key>
-				<integer>969</integer>
+				<integer>751</integer>
 				<key>originalWidth</key>
-				<integer>926</integer>
+				<integer>243</integer>
 				<key>originalHeight</key>
-				<integer>969</integer>
+				<integer>751</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>972</integer>
+				<integer>1283</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>yusha_head.png</key>
+			<key>slime_dead.png</key>
 			<dict>
 				<key>width</key>
-				<integer>749</integer>
+				<integer>1516</integer>
 				<key>height</key>
-				<integer>573</integer>
+				<integer>594</integer>
 				<key>originalWidth</key>
-				<integer>749</integer>
+				<integer>1516</integer>
 				<key>originalHeight</key>
-				<integer>573</integer>
+				<integer>594</integer>
 				<key>x</key>
-				<integer>928</integer>
+				<integer>245</integer>
 				<key>y</key>
-				<integer>972</integer>
+				<integer>1283</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -86,9 +86,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>YUSHAX~10.png</string>
+			<string>SLIMEX~10.png</string>
 			<key>realTextureFileName</key>
-			<string>YUSHAX~10.png</string>
+			<string>SLIMEX~10.png</string>
 			<key>size</key>
 			<string>{2048,2048}</string>
 		</dict>

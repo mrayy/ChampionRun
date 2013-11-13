@@ -1,0 +1,6064 @@
+{
+  "armature_data": [
+    {
+      "strVersion": "1.0.2.0",
+      "version": 1.02,
+      "name": "Gyojin",
+      "bone_data": [
+        {
+          "name": "gyojin_sushi_Copy21_Copy25",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 27,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi_Copy21_Copy24",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 26,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi_Copy21_Copy23",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 25,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi_Copy21_Copy22",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 24,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi_Copy21",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 23,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi",
+          "parent": "",
+          "x": 503.57150268554688,
+          "y": 327.14285278320312,
+          "z": 22,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.62629485,
+          "kY": -1.62629485,
+          "arrow_x": 51.507850646972656,
+          "arrow_y": 5.6087970733642578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 25.9124146,
+                  "y": -2.85275269,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.65689039,
+                  "kY": 1.62629437
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_sushi2",
+          "parent": "",
+          "x": -16.428562164306641,
+          "y": 21.428504943847656,
+          "z": 21,
+          "cX": 1.062223,
+          "cY": 1.07999992,
+          "kX": 1.57079637,
+          "kY": -1.57079637,
+          "arrow_x": 64.28564453125,
+          "arrow_y": 2.5367902708239853E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_sushi2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 32.8571472,
+                  "y": 20.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.57079637,
+                  "kY": 1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer8_Copy10",
+          "parent": "",
+          "x": -130.5,
+          "y": 127.0,
+          "z": 20,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.55340683,
+          "kY": -1.55340683,
+          "arrow_x": 115.01742553710938,
+          "arrow_y": 3.530457615852356E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.0275421,
+                  "y": 1.16503906,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.55340683,
+                  "kY": 1.553408
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer8_Copy11",
+          "parent": "",
+          "x": -130.5,
+          "y": 127.0,
+          "z": 19,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.55340683,
+          "kY": -1.55340683,
+          "arrow_x": 115.01742553710938,
+          "arrow_y": 3.530457615852356E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.0275421,
+                  "y": 1.16503906,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.55340683,
+                  "kY": 1.553408
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer8_Copy12",
+          "parent": "",
+          "x": -130.5,
+          "y": 127.0,
+          "z": 18,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.55340683,
+          "kY": -1.55340683,
+          "arrow_x": 115.01742553710938,
+          "arrow_y": 3.530457615852356E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.0275421,
+                  "y": 1.16503906,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.55340683,
+                  "kY": 1.553408
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer8_Copy13",
+          "parent": "",
+          "x": -130.5,
+          "y": 127.0,
+          "z": 17,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.55340683,
+          "kY": -1.55340683,
+          "arrow_x": 115.01742553710938,
+          "arrow_y": 3.530457615852356E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.0275421,
+                  "y": 1.16503906,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.55340683,
+                  "kY": 1.553408
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer8",
+          "parent": "",
+          "x": -130.5,
+          "y": 127.0,
+          "z": 16,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.55340683,
+          "kY": -1.55340683,
+          "arrow_x": 115.01742553710938,
+          "arrow_y": 3.530457615852356E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.0275421,
+                  "y": 1.16503906,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.55340683,
+                  "kY": 1.553408
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_r fin",
+          "parent": "",
+          "x": -3.5,
+          "y": 72.0,
+          "z": 15,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.33823943,
+          "kY": -1.33823943,
+          "arrow_x": 39.051265716552734,
+          "arrow_y": -2.0742416381835938E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_fin.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 22.27842,
+                  "y": 2.94485474,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": -1.33823931,
+                  "kY": 1.338239
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer5",
+          "parent": "",
+          "x": 261.5,
+          "y": 131.0,
+          "z": 14,
+          "cX": 0.8857193,
+          "cY": 0.8800001,
+          "kX": 1.56127286,
+          "kY": -1.56127286,
+          "arrow_x": 105.00477600097656,
+          "arrow_y": 2.9029324650764465E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_damage.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 65.93988,
+                  "y": -6.62826538,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.56127274,
+                  "kY": 1.56127465
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_head2",
+          "parent": "",
+          "x": 57.5,
+          "y": 124.0,
+          "z": 13,
+          "cX": 0.895494,
+          "cY": 0.8800001,
+          "kX": 2.56083632,
+          "kY": -2.56083632,
+          "arrow_x": 76.550643920898438,
+          "arrow_y": -1.2278556823730469E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_head2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 36.5771027,
+                  "y": 4.70278168,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 3.72234917,
+                  "kY": 2.56083632
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer36",
+          "parent": "",
+          "x": 115.90908050537109,
+          "y": 66.3636245727539,
+          "z": 12,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.6415229,
+          "kY": -0.6415229,
+          "arrow_x": 183.81854248046875,
+          "arrow_y": 9.1791152954101562E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_effect.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 102.054466,
+                  "y": 27.4345322,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.641525149,
+                  "kY": 0.64152205
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_r thigh",
+          "parent": "",
+          "x": -75.5,
+          "y": 36.0,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.44059432,
+          "kY": -1.44059432,
+          "arrow_x": 67.007499694824219,
+          "arrow_y": -1.4487653970718384E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_r thigh.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 33.0411072,
+                  "y": -2.50717163,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.697465,
+                  "kY": 1.58572
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_heart",
+          "parent": "",
+          "x": 98.5,
+          "y": 196.0,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.97311747,
+          "kY": -1.97311747,
+          "arrow_x": 51.078411102294922,
+          "arrow_y": 1.4603137969970703E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_heart.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 23.5129089,
+                  "y": 3.48486328,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.31006765,
+                  "kY": 1.97311807
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_r leg",
+          "parent": "",
+          "x": -66.5459976196289,
+          "y": -18.421815872192383,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.95710659,
+          "kY": -1.95710659,
+          "arrow_x": 58.42083740234375,
+          "arrow_y": 6.6459178924560547E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_r leg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 29.150528,
+                  "y": 0.496398926,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 4.59228039,
+                  "kY": 1.6909045
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_r foot",
+          "parent": "gyojin_r leg",
+          "x": 54.569499969482422,
+          "y": -1.4720785617828369,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.14235568,
+          "kY": 1.14235568,
+          "arrow_x": 21.094970703125,
+          "arrow_y": 2.7894973754882812E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_r foot.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 11.8511353,
+                  "y": -2.133194,
+                  "cX": 0.9999999,
+                  "cY": 0.9999999,
+                  "kX": -0.548549533,
+                  "kY": 0.548549354
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_head",
+          "parent": "",
+          "x": 75.5,
+          "y": 94.0,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -2.982316,
+          "kY": 2.982316,
+          "arrow_x": 74.966690063476562,
+          "arrow_y": 1.4722347259521484E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_head.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 27.4788971,
+                  "y": 5.46908569,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.98083067,
+                  "kY": -2.98083019
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_body",
+          "parent": "",
+          "x": 9.5,
+          "y": 114.0,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.283154,
+          "kY": -2.283154,
+          "arrow_x": 116.27553558349609,
+          "arrow_y": 2.3365020751953125E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_body.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.1698074,
+                  "y": -14.9644508,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.00003242,
+                  "kY": 2.28315568
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_l thigh",
+          "parent": "",
+          "x": -46.5,
+          "y": 36.0,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.9730893,
+          "kY": -0.9730893,
+          "arrow_x": 71.17578125,
+          "arrow_y": 2.0734965801239014E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_l thigh.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 36.2623138,
+                  "y": 2.45870972,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": -1.50048959,
+                  "kY": 1.50049078
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_l fin",
+          "parent": "",
+          "x": 14.5,
+          "y": 65.0,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.00756049,
+          "kY": -1.00756049,
+          "arrow_x": 39.051265716552734,
+          "arrow_y": -2.0742416381835938E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_fin.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 22.27842,
+                  "y": 2.94485474,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": -1.33823931,
+                  "kY": 1.338239
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_l leg",
+          "parent": "",
+          "x": -12.995208740234375,
+          "y": -9.8741922378540039,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.22013438,
+          "kY": -1.22013438,
+          "arrow_x": 65.490486145019531,
+          "arrow_y": -2.0705163478851318E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_l leg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 31.8879528,
+                  "y": 5.259509,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.44833529,
+                  "kY": 1.44833624
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_l foot",
+          "parent": "gyojin_l leg",
+          "x": 63.990959167480469,
+          "y": 1.0790475606918335,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.660361648,
+          "kY": 0.660361648,
+          "arrow_x": 24.999980926513672,
+          "arrow_y": -2.4139881134033203E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "gyojin_l foot.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 6.30874157,
+                  "y": 1.52947593,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.9272953,
+                  "kY": 0.9272949
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "gyojin_Layer33",
+          "parent": "",
+          "x": -25.909086227416992,
+          "y": 31.818161010742188,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "display_data": [
+            {
+              "name": "gyojin_attack2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "Gyojin",
+      "mov_data": [
+        {
+          "name": "stand",
+          "dr": 60,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "gyojin_r fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.693001747,
+                  "kY": -0.693001747,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                },
+                {
+                  "dI": 0,
+                  "x": 3.0,
+                  "y": -2.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.144946292,
+                  "kY": -0.144946292,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_heart",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": -10.0,
+                  "y": -42.0,
+                  "z": 0,
+                  "cX": 0.3343569,
+                  "cY": 0.400000542,
+                  "kX": 0.3247179,
+                  "kY": -0.3247179,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -10.0,
+                  "y": -42.0,
+                  "z": 0,
+                  "cX": 0.3343569,
+                  "cY": 0.400000542,
+                  "kX": 0.3247179,
+                  "kY": -0.3247179,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -0.99999749660491943,
+                  "y": -6.9999895095825195,
+                  "z": 0,
+                  "cX": 0.6671788,
+                  "cY": 0.7000006,
+                  "kX": 0.08503849,
+                  "kY": -0.08503849,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 5.0,
+                  "y": 26.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.14611645,
+                  "kY": 0.14611645,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -4.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_head",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_body",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.09500986,
+                  "kY": 0.09500986,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.504277349,
+                  "kY": -0.504277349,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 7.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "run",
+          "dr": 60,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "gyojin_r fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -1.0,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.9750265,
+                  "kY": -0.9750265,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -1.0,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0250781514,
+                  "kY": -0.0250781514,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -1.0,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.9750265,
+                  "kY": -0.9750265,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -1.0,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0250781514,
+                  "kY": -0.0250781514,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -1.0,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.9750265,
+                  "kY": -0.9750265,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.5731105,
+                  "kY": -0.5731105,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.08006907,
+                  "kY": 1.08006907,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.5731105,
+                  "kY": -0.5731105,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.4571391,
+                  "kY": 0.4571391,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -2.6426811218261719,
+                  "y": 4.3607606887817383,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.6781309,
+                  "kY": -0.6781309,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.4571391,
+                  "kY": 0.4571391,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -36.0,
+                  "y": 1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.3775966,
+                  "kY": -0.3775966,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -21.633335113525391,
+                  "y": -3.6333332061767578,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.4828478,
+                  "kY": -0.4828478,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -3.2666702270507812,
+                  "y": -4.2666664123535156,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.588099,
+                  "kY": -0.588099,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 29.466663360595703,
+                  "y": 6.4666662216186523,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.489398152,
+                  "kY": -0.489398152,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 40.833328247070312,
+                  "y": 17.833332061767578,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.5173485,
+                  "kY": -0.5173485,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 49.0,
+                  "y": 32.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.545298934,
+                  "kY": -0.545298934,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 40.833328247070312,
+                  "y": 17.833332061767578,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.5173485,
+                  "kY": -0.5173485,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 29.466663360595703,
+                  "y": 6.4666662216186523,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.489398152,
+                  "kY": -0.489398152,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -3.2666702270507812,
+                  "y": -4.2666664123535156,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.588099,
+                  "kY": -0.588099,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -21.633335113525391,
+                  "y": -3.6333332061767578,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.4828478,
+                  "kY": -0.4828478,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -36.0,
+                  "y": 1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.3775966,
+                  "kY": -0.3775966,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_head",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.01706027,
+                  "kY": 0.01706027,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0579493865,
+                  "kY": -0.0579493865,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.01706027,
+                  "kY": 0.01706027,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0579493865,
+                  "kY": -0.0579493865,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.01706027,
+                  "kY": 0.01706027,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_body",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 13.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.184480637,
+                  "kY": -0.184480637,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.06139466,
+                  "kY": -0.06139466,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 13.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.184480637,
+                  "kY": -0.184480637,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 8.0,
+                  "y": -6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.06139466,
+                  "kY": -0.06139466,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 13.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.184480637,
+                  "kY": -0.184480637,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -10.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.414531231,
+                  "kY": 0.414531231,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -10.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.20646417,
+                  "kY": -1.20646417,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -10.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.414531231,
+                  "kY": 0.414531231,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -5.0,
+                  "y": 7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.887588263,
+                  "kY": -0.887588263,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.0,
+                  "y": 7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.178007,
+                  "kY": -0.178007,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.0,
+                  "y": 7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.887588263,
+                  "kY": -0.887588263,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.0,
+                  "y": 7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.178007,
+                  "kY": -0.178007,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.0,
+                  "y": 7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.887588263,
+                  "kY": -0.887588263,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 15.0,
+                  "y": 11.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.683357,
+                  "kY": -1.683357,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 2.7833328247070312,
+                  "y": -1.6500005722045898,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.68129182,
+                  "kY": -1.68129182,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -9.4333343505859375,
+                  "y": -12.30000114440918,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67922652,
+                  "kY": -1.67922652,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -26.150001525878906,
+                  "y": -17.950000762939453,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67716134,
+                  "kY": -1.67716134,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -46.533332824707031,
+                  "y": -19.600000381469727,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67509615,
+                  "kY": -1.67509615,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -60.666664123535156,
+                  "y": -11.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.40465021,
+                  "kY": -1.40465021,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -77.0,
+                  "y": -7.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.34890878,
+                  "kY": -1.34890878,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -60.666664123535156,
+                  "y": -11.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.40465021,
+                  "kY": -1.40465021,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -46.533332824707031,
+                  "y": -19.600000381469727,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67509615,
+                  "kY": -1.67509615,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -26.150001525878906,
+                  "y": -17.950000762939453,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67716134,
+                  "kY": -1.67716134,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -9.4333343505859375,
+                  "y": -12.30000114440918,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67922652,
+                  "kY": -1.67922652,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 2.7833328247070312,
+                  "y": -1.6500005722045898,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.68129182,
+                  "kY": -1.68129182,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 15.0,
+                  "y": 11.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.683357,
+                  "kY": -1.683357,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -4.8001022338867188,
+                  "y": 5.4734811782836914,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.43456554,
+                  "kY": 1.43456554,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack",
+          "dr": 60,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "gyojin_r fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 80.0,
+                  "y": 23.636360168457031,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.65217686,
+                  "kY": -1.65217686,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 80.0,
+                  "y": 23.636360168457031,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.65217686,
+                  "kY": -1.65217686,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer36",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 51.81817626953125,
+                  "y": 14.545448303222656,
+                  "z": 0,
+                  "cX": 0.6790308,
+                  "cY": 1.75999928,
+                  "kX": -2.55312228,
+                  "kY": 2.55312228,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 51.81817626953125,
+                  "y": 14.545448303222656,
+                  "z": 0,
+                  "cX": 0.6790308,
+                  "cY": 1.75999928,
+                  "kX": -2.55312228,
+                  "kY": 2.55312228,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 61.818183898925781,
+                  "y": 43.636436462402344,
+                  "z": 0,
+                  "cX": 0.488625169,
+                  "cY": 2.03999949,
+                  "kX": -2.74560142,
+                  "kY": 2.74560142,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 79.999992370605469,
+                  "y": -31.818115234375,
+                  "z": 0,
+                  "cX": 0.6572698,
+                  "cY": 2.03999949,
+                  "kX": -2.21142149,
+                  "kY": 2.21142149,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 107.27272796630859,
+                  "y": -2.7272758483886719,
+                  "z": 0,
+                  "cX": 0.717111766,
+                  "cY": 1.8999989,
+                  "kX": -2.69052,
+                  "kY": 2.69052,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 67.272735595703125,
+                  "y": 21.818180084228516,
+                  "z": 0,
+                  "cX": 0.646389663,
+                  "cY": 1.72000051,
+                  "kX": -2.65044737,
+                  "kY": 2.65044737,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 98.181816101074219,
+                  "y": -24.545455932617188,
+                  "z": 0,
+                  "cX": 0.4668652,
+                  "cY": 2.05999875,
+                  "kX": -2.26311731,
+                  "kY": 2.26311731,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.960426152,
+                  "kY": 0.960426152,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.4052906,
+                  "kY": 1.4052906,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.8768211,
+                  "kY": 0.8768211,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 73.636367797851562,
+                  "y": -103.63630676269531,
+                  "z": 0,
+                  "cX": 0.526706159,
+                  "cY": 2.39999866,
+                  "kX": -1.74318016,
+                  "kY": 1.74318016,
+                  "fi": 37,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.9380093,
+                  "kY": 0.9380093,
+                  "fi": 38,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.470435,
+                  "kY": 1.470435,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.8903629,
+                  "kY": 0.8903629,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 60.0,
+                  "y": 41.818172454833984,
+                  "z": 0,
+                  "cX": 0.6137485,
+                  "cY": 2.03999925,
+                  "kX": -2.691553,
+                  "kY": 2.691553,
+                  "fi": 41,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.9389405,
+                  "kY": 0.9389405,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.42132938,
+                  "kY": 1.42132938,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.932849944,
+                  "kY": 0.932849944,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 95.454544067382812,
+                  "y": -34.545459747314453,
+                  "z": 0,
+                  "cX": 0.5593469,
+                  "cY": 2.179999,
+                  "kX": -2.26513433,
+                  "kY": 2.26513433,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.9738271,
+                  "kY": 0.9738271,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.43106079,
+                  "kY": 1.43106079,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -0.7956818,
+                  "kY": 0.7956818,
+                  "fi": 48,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 69.090911865234375,
+                  "y": -103.63639068603516,
+                  "z": 0,
+                  "cX": 0.553906739,
+                  "cY": 2.17999983,
+                  "kX": -1.83246827,
+                  "kY": 1.83246827,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.01820111,
+                  "kY": 1.01820111,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 52,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 61.818183898925781,
+                  "y": 35.454540252685547,
+                  "z": 0,
+                  "cX": 0.5756675,
+                  "cY": 1.77999949,
+                  "kX": -2.60791349,
+                  "kY": 2.60791349,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 56,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54545593261719,
+                  "y": -37.272731781005859,
+                  "z": 0,
+                  "cX": 0.7334323,
+                  "cY": 2.03999925,
+                  "kX": -2.42742348,
+                  "kY": 2.42742348,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 58,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -20.909088134765625,
+                  "y": -42.727275848388672,
+                  "z": 0,
+                  "cX": 0.6899109,
+                  "cY": 0.5800002,
+                  "kX": -1.48901463,
+                  "kY": 1.48901463,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.16195393,
+                  "kY": 1.16195393,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 96.363632202148438,
+                  "y": -2.7272739410400391,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.344085544,
+                  "kY": 0.344085544,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 96.363632202148438,
+                  "y": -2.7272739410400391,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.344085544,
+                  "kY": 0.344085544,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -1.8377914428710938,
+                  "y": 3.1377825736999512,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.597269356,
+                  "kY": -0.597269356,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.195855811,
+                  "kY": 0.195855811,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.195855811,
+                  "kY": 0.195855811,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 51.818183898925781,
+                  "y": 33.636348724365234,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.427271,
+                  "kY": 1.427271,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 113.63636016845703,
+                  "y": -1.8181819915771484,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 113.63636016845703,
+                  "y": -1.8181819915771484,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_head",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 75.454544067382812,
+                  "y": -18.181816101074219,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.4037537,
+                  "kY": -0.4037537,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 75.454544067382812,
+                  "y": -18.181816101074219,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.4037537,
+                  "kY": -0.4037537,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_body",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 98.181800842285156,
+                  "y": -0.909088134765625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 98.181800842285156,
+                  "y": -0.909088134765625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.39858341,
+                  "kY": -1.39858341,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 80.909042358398438,
+                  "y": -11.818181037902832,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.888639569,
+                  "kY": 0.888639569,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 118.7999267578125,
+                  "y": -12.290905952453613,
+                  "z": 0,
+                  "cX": 1.24558973,
+                  "cY": 1.42319965,
+                  "kX": -0.566592753,
+                  "kY": 0.566592753,
+                  "fi": 37,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 118.7999267578125,
+                  "y": -12.290905952453613,
+                  "z": 0,
+                  "cX": 1.24558973,
+                  "cY": 1.42319965,
+                  "kX": -0.566592753,
+                  "kY": 0.566592753,
+                  "fi": 38,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 41,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 118.7999267578125,
+                  "y": -12.290905952453613,
+                  "z": 0,
+                  "cX": 1.24558973,
+                  "cY": 1.42319965,
+                  "kX": -0.566592753,
+                  "kY": 0.566592753,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 118.7999267578125,
+                  "y": -12.290905952453613,
+                  "z": 0,
+                  "cX": 1.24558973,
+                  "cY": 1.42319965,
+                  "kX": -0.566592753,
+                  "kY": 0.566592753,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.816595,
+                  "kY": 1.816595,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 119.09083557128906,
+                  "y": -12.727269172668457,
+                  "z": 0,
+                  "cX": 1.26694536,
+                  "cY": 1.45999956,
+                  "kX": -1.15426624,
+                  "kY": 1.15426624,
+                  "fi": 58,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.08429849,
+                  "cY": 1.33999968,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 114.54538726806641,
+                  "y": -17.272724151611328,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.11759639,
+                  "kY": 1.11759639,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 72.7272720336914,
+                  "y": -2.7272720336914062,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.6811266,
+                  "kY": -0.6811266,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 72.7272720336914,
+                  "y": -2.7272720336914062,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.6811266,
+                  "kY": -0.6811266,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -77.272720336914062,
+                  "y": 3.6363639831542969,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.46536767,
+                  "kY": -1.46536767,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -35.090904235839844,
+                  "y": -20.272726058959961,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.36277628,
+                  "kY": -2.36277628,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 9.090911865234375,
+                  "y": -23.931816101074219,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.4573853,
+                  "kY": -2.4573853,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 52.93939208984375,
+                  "y": -13.257572174072266,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.347357,
+                  "kY": -2.347357,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 88.287872314453125,
+                  "y": 5.9166717529296875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76742721,
+                  "kY": -1.76742721,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 113.6363525390625,
+                  "y": 29.090915679931641,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.54020011,
+                  "kY": -1.54020011,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 149.99993896484375,
+                  "y": 37.272743225097656,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 154.99980163574219,
+                  "y": 67.273086547851562,
+                  "z": 0,
+                  "cX": 1.32066309,
+                  "cY": 1.4500016,
+                  "kX": 1.17387414,
+                  "kY": -1.17387414,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 149.99993896484375,
+                  "y": 37.272743225097656,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 162.72718811035156,
+                  "y": 42.727291107177734,
+                  "z": 0,
+                  "cX": 1.35883093,
+                  "cY": 1.28999972,
+                  "kX": 1.49427652,
+                  "kY": -1.49427652,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 157.52188110351563,
+                  "y": 20.215930938720703,
+                  "z": 0,
+                  "cX": 1.291951,
+                  "cY": 1.42679954,
+                  "kX": 1.78536975,
+                  "kY": -1.78536975,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.68022155761719,
+                  "y": 4.9772911071777344,
+                  "z": 0,
+                  "cX": 1.66024888,
+                  "cY": 1.53359938,
+                  "kX": -0.7487093,
+                  "kY": 0.7487093,
+                  "fi": 37,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.68022155761719,
+                  "y": 4.9772911071777344,
+                  "z": 0,
+                  "cX": 1.66024888,
+                  "cY": 1.53359938,
+                  "kX": -0.7487093,
+                  "kY": 0.7487093,
+                  "fi": 38,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 154.99980163574219,
+                  "y": 67.273086547851562,
+                  "z": 0,
+                  "cX": 1.32066309,
+                  "cY": 1.4500016,
+                  "kX": 1.17387414,
+                  "kY": -1.17387414,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 41,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 149.99993896484375,
+                  "y": 37.272743225097656,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 162.72718811035156,
+                  "y": 42.727291107177734,
+                  "z": 0,
+                  "cX": 1.35883093,
+                  "cY": 1.28999972,
+                  "kX": 1.49427652,
+                  "kY": -1.49427652,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 157.52188110351563,
+                  "y": 20.215930938720703,
+                  "z": 0,
+                  "cX": 1.291951,
+                  "cY": 1.42679954,
+                  "kX": 1.78536975,
+                  "kY": -1.78536975,
+                  "fi": 48,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.68022155761719,
+                  "y": 4.9772911071777344,
+                  "z": 0,
+                  "cX": 1.66024888,
+                  "cY": 1.53359938,
+                  "kX": -0.7487093,
+                  "kY": 0.7487093,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.68022155761719,
+                  "y": 4.9772911071777344,
+                  "z": 0,
+                  "cX": 1.66024888,
+                  "cY": 1.53359938,
+                  "kX": -0.7487093,
+                  "kY": 0.7487093,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 154.99980163574219,
+                  "y": 67.273086547851562,
+                  "z": 0,
+                  "cX": 1.32066309,
+                  "cY": 1.4500016,
+                  "kX": 1.17387414,
+                  "kY": -1.17387414,
+                  "fi": 52,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 129.09083557128906,
+                  "y": 82.727279663085938,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.87040317,
+                  "kY": 1.87040317,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 149.99993896484375,
+                  "y": 37.272743225097656,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 162.72718811035156,
+                  "y": 42.727291107177734,
+                  "z": 0,
+                  "cX": 1.35883093,
+                  "cY": 1.28999972,
+                  "kX": 1.49427652,
+                  "kY": -1.49427652,
+                  "fi": 56,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 159.09083557128906,
+                  "y": 44.54547119140625,
+                  "z": 0,
+                  "cX": 1.71766174,
+                  "cY": 1.57999945,
+                  "kX": -1.34331059,
+                  "kY": 1.34331059,
+                  "fi": 58,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 148.18174743652344,
+                  "y": 40.909111022949219,
+                  "z": 0,
+                  "cX": 0.923653,
+                  "cY": 1.31999981,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 149.99993896484375,
+                  "y": 37.272743225097656,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.32608724,
+                  "kY": -1.32608724,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer33",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 26.36363410949707,
+                  "y": 1.52587890625E-05,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "damage",
+          "dr": 40,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "gyojin_r fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -9.6666669845581055,
+                  "y": 3.1666667461395264,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.30228925,
+                  "kY": 1.30228925,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -19.333333969116211,
+                  "y": 6.3333334922790527,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.7971267,
+                  "kY": -0.7971267,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -29.0,
+                  "y": 9.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -2.06025028,
+                  "kY": 2.06025028,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -48.333335876464844,
+                  "y": 15.833333969116211,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -2.49196744,
+                  "kY": 2.49196744,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -58.0,
+                  "y": 19.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.416339934,
+                  "kY": 0.416339934,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -58.0,
+                  "y": 19.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.416339934,
+                  "kY": 0.416339934,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": -338.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.01904678,
+                  "cY": 1.0,
+                  "kX": -0.105464838,
+                  "kY": 0.105464838,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -338.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.01904678,
+                  "cY": 1.0,
+                  "kX": -0.105464838,
+                  "kY": 0.105464838,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -379.0,
+                  "y": -16.0,
+                  "z": 0,
+                  "cX": 1.01904678,
+                  "cY": 1.0,
+                  "kX": -0.458131731,
+                  "kY": 0.458131731,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -415.33334350585938,
+                  "y": -40.0,
+                  "z": 0,
+                  "cX": 1.01904678,
+                  "cY": 1.0,
+                  "kX": -0.823098242,
+                  "kY": 0.823098242,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_head2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -65.0,
+                  "y": 28.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.489429,
+                  "kY": 0.489429,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -77.0,
+                  "y": 31.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.489429,
+                  "kY": 0.489429,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -82.0,
+                  "y": 41.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.489429,
+                  "kY": 0.489429,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -82.0,
+                  "y": 41.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.489429,
+                  "kY": 0.489429,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -4.5,
+                  "y": -15.75,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.9232847,
+                  "kY": 0.9232847,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -7.0,
+                  "y": -17.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.24661982,
+                  "kY": 1.24661982,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.5,
+                  "y": -15.25,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.8462061,
+                  "kY": 0.8462061,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -4.0,
+                  "y": -13.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.445792437,
+                  "kY": 0.445792437,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -4.0,
+                  "y": -13.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.445792437,
+                  "kY": 0.445792437,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -4.6486597061157227,
+                  "y": 2.6195790767669678,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.629255831,
+                  "kY": -0.629255831,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -5.5783920288085938,
+                  "y": 3.1434950828552246,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.755107,
+                  "kY": -0.755107,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -5.5783920288085938,
+                  "y": 3.1434950828552246,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.755107,
+                  "kY": -0.755107,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 20.25,
+                  "y": -2.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.11069489,
+                  "kY": 1.11069489,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 37.5,
+                  "y": 5.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.43473637,
+                  "kY": 1.43473637,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 41.625,
+                  "y": 14.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.457760572,
+                  "kY": 0.457760572,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 43.75,
+                  "y": 23.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.519215167,
+                  "kY": -0.519215167,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 39.875,
+                  "y": 1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.043299,
+                  "kY": -1.043299,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 17.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.56738281,
+                  "kY": -1.56738281,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 17.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.56738281,
+                  "kY": -1.56738281,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_body",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -74.0,
+                  "y": 16.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.716179252,
+                  "kY": 0.716179252,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -74.0,
+                  "y": 16.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.716179252,
+                  "kY": 0.716179252,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -7.0,
+                  "y": -7.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.03347993,
+                  "kY": 1.03347993,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -14.0,
+                  "y": -15.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.200149536,
+                  "kY": 0.200149536,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.335606754,
+                  "kY": -0.335606754,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.335606754,
+                  "kY": -0.335606754,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -8.6666669845581055,
+                  "y": 4.1666669845581055,
+                  "z": 0,
+                  "cX": 1.00853574,
+                  "cY": 0.9366667,
+                  "kX": -0.5904836,
+                  "kY": 0.5904836,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -17.333333969116211,
+                  "y": 8.3333339691162109,
+                  "z": 0,
+                  "cX": 1.01707149,
+                  "cY": 0.873333454,
+                  "kX": 0.467385679,
+                  "kY": -0.467385679,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -26.0,
+                  "y": 12.5,
+                  "z": 0,
+                  "cX": 1.02560735,
+                  "cY": 0.8100002,
+                  "kX": -1.1212908,
+                  "kY": 1.1212908,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -34.666667938232422,
+                  "y": 16.666667938232422,
+                  "z": 0,
+                  "cX": 1.03414309,
+                  "cY": 0.7466669,
+                  "kX": 0.401655436,
+                  "kY": -0.401655436,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -43.333335876464844,
+                  "y": 20.833333969116211,
+                  "z": 0,
+                  "cX": 1.04267883,
+                  "cY": 0.683333635,
+                  "kX": -0.849270165,
+                  "kY": 0.849270165,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -52.0,
+                  "y": 25.0,
+                  "z": 0,
+                  "cX": 1.05121469,
+                  "cY": 0.6200003,
+                  "kX": -1.23086607,
+                  "kY": 1.23086607,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -52.0,
+                  "y": 25.0,
+                  "z": 0,
+                  "cX": 1.05121469,
+                  "cY": 0.6200003,
+                  "kX": -1.23086607,
+                  "kY": 1.23086607,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 16.600000381469727,
+                  "y": 12.600000381469727,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.415631026,
+                  "kY": -0.415631026,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 23.733333587646484,
+                  "y": 21.233333587646484,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.6234465,
+                  "kY": -0.6234465,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 29.0,
+                  "y": 41.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.03907752,
+                  "kY": -1.03907752,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 2.0,
+                  "y": -11.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.67410111,
+                  "kY": -1.67410111,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -7.0,
+                  "y": -15.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.145423,
+                  "kY": -2.145423,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -16.0,
+                  "y": -20.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 3.34820223,
+                  "kY": -3.34820223,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": -16.0,
+                  "y": -20.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 3.34820223,
+                  "kY": -3.34820223,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "dr": 60,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "gyojin_sushi_Copy21_Copy25",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": -428.0,
+                  "y": -44.155857086181641,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -478.0,
+                  "y": -48.571441650390625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -478.0,
+                  "y": -303.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi_Copy21_Copy24",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -494.2857666015625,
+                  "y": -32.857147216796875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -499.0,
+                  "y": -304.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi_Copy21_Copy23",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -519.0,
+                  "y": -18.571441650390625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -519.0,
+                  "y": -281.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -519.0,
+                  "y": -304.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi_Copy21_Copy22",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -536.0,
+                  "y": -17.142852783203125,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -536.0,
+                  "y": -258.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -536.0,
+                  "y": -304.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi_Copy21",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": -551.4287109375,
+                  "y": 22.85711669921875,
+                  "z": 0,
+                  "cX": 0.9029274,
+                  "cY": 0.960000038,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -551.4287109375,
+                  "y": 22.85711669921875,
+                  "z": 0,
+                  "cX": 0.9029274,
+                  "cY": 0.960000038,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -551.4287109375,
+                  "y": -238.0,
+                  "z": 0,
+                  "cX": 0.9029274,
+                  "cY": 0.960000038,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -551.4287109375,
+                  "y": -310.0,
+                  "z": 0,
+                  "cX": 0.9029274,
+                  "cY": 0.960000038,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": -569.0,
+                  "y": 7.1428375244140625,
+                  "z": 0,
+                  "cX": 0.825269163,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -569.0,
+                  "y": 7.1428375244140625,
+                  "z": 0,
+                  "cX": 0.825269163,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -569.28594970703125,
+                  "y": -215.71434020996094,
+                  "z": 0,
+                  "cX": 0.825269163,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -569.28594970703125,
+                  "y": -313.0,
+                  "z": 0,
+                  "cX": 0.825269163,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_sushi2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 2.8571434020996094,
+                  "y": 142.85716247558594,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 2.8571434020996094,
+                  "y": 142.85716247558594,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer8_Copy10",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 110.0,
+                  "y": -108.0,
+                  "z": 0,
+                  "cX": 0.8521963,
+                  "cY": 0.640000165,
+                  "kX": -0.8192362,
+                  "kY": 0.8192362,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 110.0,
+                  "y": -108.0,
+                  "z": 0,
+                  "cX": 0.8521963,
+                  "cY": 0.640000165,
+                  "kX": -0.8192362,
+                  "kY": 0.8192362,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 1.0,
+                  "y": -4.0,
+                  "z": 0,
+                  "cX": 0.8521963,
+                  "cY": 0.640000165,
+                  "kX": -0.8192362,
+                  "kY": 0.8192362,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 1.0,
+                  "y": -4.0,
+                  "z": 0,
+                  "cX": 0.8521963,
+                  "cY": 0.640000165,
+                  "kX": -0.8192362,
+                  "kY": 0.8192362,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer8_Copy11",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 83.0,
+                  "y": 79.0,
+                  "z": 0,
+                  "cX": 0.9826111,
+                  "cY": 0.540000141,
+                  "kX": -0.377617776,
+                  "kY": 0.377617776,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 83.0,
+                  "y": 79.0,
+                  "z": 0,
+                  "cX": 0.9826111,
+                  "cY": 0.540000141,
+                  "kX": -0.377617776,
+                  "kY": 0.377617776,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 146.0,
+                  "y": -68.0,
+                  "z": 0,
+                  "cX": 0.9826111,
+                  "cY": 0.540000141,
+                  "kX": -0.377617776,
+                  "kY": 0.377617776,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 146.0,
+                  "y": -68.0,
+                  "z": 0,
+                  "cX": 0.9826111,
+                  "cY": 0.540000141,
+                  "kX": -0.377617776,
+                  "kY": 0.377617776,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer8_Copy12",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 46.0,
+                  "y": -64.0,
+                  "z": 0,
+                  "cX": 0.834807336,
+                  "cY": 0.6400002,
+                  "kX": 1.55311477,
+                  "kY": -1.55311477,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 46.0,
+                  "y": -64.0,
+                  "z": 0,
+                  "cX": 0.834807336,
+                  "cY": 0.6400002,
+                  "kX": 1.55311477,
+                  "kY": -1.55311477,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 266.0,
+                  "y": -64.0,
+                  "z": 0,
+                  "cX": 0.834807336,
+                  "cY": 0.6400002,
+                  "kX": 1.55311477,
+                  "kY": -1.55311477,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 266.0,
+                  "y": -64.0,
+                  "z": 0,
+                  "cX": 0.834807336,
+                  "cY": 0.6400002,
+                  "kX": 1.55311477,
+                  "kY": -1.55311477,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer8_Copy13",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -2,
+                  "x": 25.0,
+                  "y": 41.0,
+                  "z": 0,
+                  "cX": 0.8261128,
+                  "cY": 0.62,
+                  "kX": -0.789293051,
+                  "kY": 0.789293051,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 25.0,
+                  "y": 41.0,
+                  "z": 0,
+                  "cX": 0.8261128,
+                  "cY": 0.62,
+                  "kX": -0.789293051,
+                  "kY": 0.789293051,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 147.0,
+                  "y": -89.0,
+                  "z": 0,
+                  "cX": 0.8261128,
+                  "cY": 0.62,
+                  "kX": -0.789293051,
+                  "kY": 0.789293051,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 147.0,
+                  "y": -89.0,
+                  "z": 0,
+                  "cX": 0.8261128,
+                  "cY": 0.62,
+                  "kX": -0.789293051,
+                  "kY": 0.789293051,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_Layer8",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 108.0,
+                  "y": -96.0,
+                  "z": 0,
+                  "cX": 0.8261132,
+                  "cY": 0.4800003,
+                  "kX": 0.883148432,
+                  "kY": -0.883148432,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 175.0,
+                  "y": -37.0,
+                  "z": 0,
+                  "cX": 0.8261132,
+                  "cY": 0.4800003,
+                  "kX": 0.883148432,
+                  "kY": -0.883148432,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": -2,
+                  "x": 175.0,
+                  "y": -37.0,
+                  "z": 0,
+                  "cX": 0.8261132,
+                  "cY": 0.4800003,
+                  "kX": 0.883148432,
+                  "kY": -0.883148432,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -15.714286804199219,
+                  "y": 21.428573608398438,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57031691,
+                  "kY": -1.57031691,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_head2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 27.142860412597656,
+                  "y": -7.1428604125976562,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.86940825,
+                  "kY": -0.86940825,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -17.142860412597656,
+                  "y": 25.714288711547852,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.07655525,
+                  "kY": -1.07655525,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_r leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.4367795,
+                  "kY": -1.4367795,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_body",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -22.857145309448242,
+                  "y": 44.285720825195312,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.389801472,
+                  "kY": -0.389801472,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l thigh",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 37.142864227294922,
+                  "y": -20.000001907348633,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.739304543,
+                  "kY": 0.739304543,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l fin",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 27.142858505249023,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.10886228,
+                  "kY": 1.10886228,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l leg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": -18.571430206298828,
+                  "y": -5.7142868041992188,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.8714042,
+                  "kY": 0.8714042,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gyojin_l foot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 0,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "gyojin_body",
+      "width": 173.0,
+      "height": 176.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_head",
+      "width": 145.0,
+      "height": 158.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_r thigh",
+      "width": 77.0,
+      "height": 124.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_r leg",
+      "width": 55.0,
+      "height": 89.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_r foot",
+      "width": 64.0,
+      "height": 42.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_l thigh",
+      "width": 93.0,
+      "height": 138.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_l leg",
+      "width": 36.0,
+      "height": 69.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_l foot",
+      "width": 27.0,
+      "height": 27.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_fin",
+      "width": 71.0,
+      "height": 72.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_heart",
+      "width": 48.0,
+      "height": 67.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_attack2",
+      "width": 202.0,
+      "height": 239.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_effect",
+      "width": 311.0,
+      "height": 207.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_head2",
+      "width": 124.0,
+      "height": 111.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_damage",
+      "width": 173.0,
+      "height": 249.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_effect2",
+      "width": 51.0,
+      "height": 243.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_sushi2",
+      "width": 327.0,
+      "height": 110.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "gyojin_sushi",
+      "width": 34.0,
+      "height": 79.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "GYOJIN~10.plist"
+  ]
+}

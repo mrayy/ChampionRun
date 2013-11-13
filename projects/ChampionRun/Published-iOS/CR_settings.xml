@@ -1,0 +1,32 @@
+<Armatures>
+  <Armature>
+    <Name>Logo</Name>
+    <Path>ani/logo/LogoAnimation.ExportJson</Path>
+    <Scale>1,1</Scale>
+  </Armature>
+  <Armature>
+    <Name>Yusha</Name>
+    <Path>Characters/Yusha.ExportJson</Path>
+    <Scale>-0.2,0.2</Scale>
+  </Armature>
+  <Armature>
+    <Name>Skeleton</Name>
+    <Path>Characters/Skeleton.ExportJson</Path>
+    <Scale>0.6,0.6</Scale>
+  </Armature>
+  <Armature>
+    <Name>Slime</Name>
+    <Path>Characters/Slime.ExportJson</Path>
+    <Scale>1,1</Scale>
+  </Armature>
+  <Armature>
+    <Name>Gyojin</Name>
+    <Path>Characters/Gyojin.ExportJson</Path>
+    <Scale>0.9,0.9</Scale>
+  </Armature>
+  <Armature>
+    <Name>FatYusha</Name>
+    <Path>Characters/fatYusha.ExportJson</Path>
+    <Scale>-0.8,0.8</Scale>
+  </Armature>
+</Armatures>
