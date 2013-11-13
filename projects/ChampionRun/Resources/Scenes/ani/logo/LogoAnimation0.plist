@@ -67,9 +67,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>LOGOAN~10.png</string>
+			<string>LogoAnimation0.png</string>
 			<key>realTextureFileName</key>
-			<string>LOGOAN~10.png</string>
+			<string>LogoAnimation0.png</string>
 			<key>size</key>
 			<string>{1024,1024}</string>
 		</dict>

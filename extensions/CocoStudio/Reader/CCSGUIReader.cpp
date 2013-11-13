@@ -27,7 +27,7 @@
 #include "../Action/CCActionManagerEx.h"
 #include <fstream>
 #include <iostream>
-
+#include "CCSSceneReader.h"
 
 NS_CC_EXT_BEGIN
     
@@ -94,7 +94,7 @@ int CCSGUIReader::getVersionInteger(const char *str)
     /************************/
 }
 
-UIWidget* CCSGUIReader::widgetFromJsonDictionary(cs::JsonDictionary* data)
+UIWidget* CCSGUIReader::widgetFromJsonDictionary(cs::JsonDictionary* data, ISceneReaderListener* listener)
 {
     UIWidget* widget = NULL;
     const char* classname = DICTOOL->getStringValue_json(data, "classname");
@@ -182,7 +182,7 @@ UIWidget* CCSGUIReader::widgetFromJsonDictionary(cs::JsonDictionary* data)
     for (int i=0;i<childrenCount;i++)
     {
         cs::JsonDictionary* subData = DICTOOL->getDictionaryFromArray_json(data, "children", i);
-        UIWidget* child = widgetFromJsonDictionary(subData);
+        UIWidget* child = widgetFromJsonDictionary(subData,listener);
         if (child)
         {
             widget->addChild(child);
@@ -191,12 +191,15 @@ UIWidget* CCSGUIReader::widgetFromJsonDictionary(cs::JsonDictionary* data)
     }
 
 	CC_SAFE_DELETE(uiOptions);
+
+	if (listener)
+		listener->OnWidgetLoaded(widget);
     return widget;
 }
 
 
 
-UIWidget* CCSGUIReader::widgetFromJsonFile(const char *fileName)
+UIWidget* CCSGUIReader::widgetFromJsonFile(const char *fileName, ISceneReaderListener* listener)
 {
     m_bOlderVersion = false;
     const char *des = NULL;
@@ -245,7 +248,7 @@ UIWidget* CCSGUIReader::widgetFromJsonFile(const char *fileName)
         CCUIHELPER->setFileDesignHeight(fileDesignHeight);
     }
     cs::JsonDictionary* widgetTree = DICTOOL->getSubDictionary_json(jsonDict, "widgetTree");
-    UIWidget* widget = widgetFromJsonDictionary(widgetTree);
+	UIWidget* widget = widgetFromJsonDictionary(widgetTree, listener);
     
     /* *********temp********* */
     if (widget->getContentSize().equals(Size::ZERO))
@@ -314,6 +317,11 @@ void CCSGUIReader::setPropsForWidgetFromJsonDictionary(UIWidget*widget,cs::JsonD
 //    widget->setUseMergedTexture(DICTOOL->getBooleanValue_json(options, "useMergedTexture"));
     int z = DICTOOL->getIntValue_json(options, "ZOrder");
     widget->setZOrder(z);
+
+	/*const char* name = DICTOOL->getStringValue_json(options, "name");
+	if (name)
+		widget->setName(name);
+*/
 }
 
 void CCSGUIReader::setColorPropsForWidgetFromJsonDictionary(UIWidget *widget, cs::JsonDictionary *options)

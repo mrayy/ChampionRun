@@ -19,14 +19,24 @@ bool SplashLayer::init()
     Node* node=Node::create();
     addChild(node);
     node->runAction(CCSequence::create(CCDelayTime::create(5),CCCallFunc::create(this, callfunc_selector(SplashLayer::switchToNextScreen)), NULL));
-    
+	
 	Size sz= Director::getInstance()->getWinSize();
 	LayerColor* bg = LayerColor::create(Color4B(0, 0, 0, 255), sz.width, sz.height);
-	Node* screen=(Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("SplashScreen.json");
+	/*Node* screen=(Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("SplashScreen.json");
 
-	screen->setAnchorPoint(Point(0, 0));
-	addChild(bg);
 	bg->addChild(screen);
+	screen->setAnchorPoint(Point(0, 0));*/
+
+	armature::Armature* logo=armature::Armature::create("LogoAnimation");
+	if (logo)
+	{
+		logo->getAnimation()->playByIndex(0);
+		bg->addChild(logo);
+		logo->setPositionX(sz.width / 2);
+		logo->setPositionY(sz.height / 2);
+	}
+
+	addChild(bg);
 
     return true;
 }

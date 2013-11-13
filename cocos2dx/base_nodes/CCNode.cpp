@@ -573,6 +573,12 @@ Node* Node::getChildByTag(int aTag)
             Node* pNode = static_cast<Node*>(child);
             if(pNode && pNode->_tag == aTag)
                 return pNode;
+			if (pNode)
+			{
+				pNode = pNode->getChildByTag(aTag);
+				if (pNode)
+					return pNode;
+			}
         }
     }
     return NULL;
@@ -1304,6 +1310,12 @@ Node* Node::GetChildByName(const std::string& name)
 			if (node && node->GetName()==name)
 			{
 				return node;
+			}
+			if (node)
+			{
+				node = node->GetChildByName(name);
+				if (node)
+					return node;
 			}
 		}
 	}

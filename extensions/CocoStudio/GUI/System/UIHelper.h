@@ -32,6 +32,7 @@
 #define CCUIHELPER cocos2d::extension::UIHelper::instance()
 
 NS_CC_EXT_BEGIN
+class ISceneReaderListener;
 
 class UIHelper
 {
@@ -54,7 +55,7 @@ public:
      *
      * @return a widget created with json file.
      */
-    UIWidget* createWidgetFromJsonFile(const char* fileName);
+	UIWidget* createWidgetFromJsonFile(const char* fileName, ISceneReaderListener* listener);
     
     //get instance
     static UIHelper* instance();

@@ -128,7 +128,7 @@ bool Armature::init(const char *name)
         _topBoneList = new Array();
         _topBoneList->init();
 
-		_blendFunc=BlendFunc::ALPHA_PREMULTIPLIED;
+		_blendFunc = BlendFunc::ALPHA_NON_PREMULTIPLIED;
         //_blendFunc.src = CC_BLEND_SRC;
         //_blendFunc.dst = CC_BLEND_DST;
 

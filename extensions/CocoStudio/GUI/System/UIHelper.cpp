@@ -68,9 +68,9 @@ void UIHelper::init()
     _textureFiles->retain();
 }
 
-UIWidget* UIHelper::createWidgetFromJsonFile(const char *fileName)
+UIWidget* UIHelper::createWidgetFromJsonFile(const char *fileName, ISceneReaderListener* listener)
 {
-    return CCSGUIReader::shareReader()->widgetFromJsonFile(fileName);
+    return CCSGUIReader::shareReader()->widgetFromJsonFile(fileName,listener);
 }
 
 void UIHelper::addSpriteFrame(const char *fileName)

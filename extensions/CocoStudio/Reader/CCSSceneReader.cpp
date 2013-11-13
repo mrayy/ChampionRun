@@ -42,7 +42,7 @@ NS_CC_EXT_BEGIN
 		return "0.1.0.0";
 	}
 
-    cocos2d::Node* SceneReader::createNodeWithSceneFile(const char* pszFileName)
+	cocos2d::Node* SceneReader::createNodeWithSceneFile(const char* pszFileName, ISceneReaderListener* listener )
     {
         unsigned long size = 0;
         const char* pData = 0;
@@ -53,14 +53,14 @@ NS_CC_EXT_BEGIN
               CC_BREAK_IF(pData == NULL || strcmp(pData, "") == 0);
               cs::JsonDictionary *jsonDict = new cs::JsonDictionary();
               jsonDict->initWithDescription(pData);
-              pNode = createObject(jsonDict,NULL);
+			  pNode = createObject(jsonDict, NULL, listener);
               CC_SAFE_DELETE(jsonDict);
         } while (0);
         
         return pNode;
 	}
 
-	Node* SceneReader::createObject(cs::JsonDictionary * inputFiles, Node* parenet)
+	Node* SceneReader::createObject(cs::JsonDictionary * inputFiles, Node* parenet, ISceneReaderListener* listener)
     {
         const char *className = inputFiles->getItemStringValue("classname"); 
         if(strcmp(className, "CCNode") == 0)
@@ -317,7 +317,7 @@ NS_CC_EXT_BEGIN
 				{
                     cocos2d::extension::UILayer *pLayer = cocos2d::extension::UILayer::create();
 					pLayer->scheduleUpdate();
-					UIWidget* widget=cocos2d::extension::UIHelper::instance()->createWidgetFromJsonFile(pPath.c_str());
+					UIWidget* widget = cocos2d::extension::UIHelper::instance()->createWidgetFromJsonFile(pPath.c_str(), listener);
 					pLayer->addWidget(widget);
 					ComRender *pRender = ComRender::create(pLayer, "GUIComponent");
 					if (pComName != NULL)
@@ -337,10 +337,11 @@ NS_CC_EXT_BEGIN
                 {
                     break;
                 }
-                createObject(subDict, gb);
+                createObject(subDict, gb,listener);
                 CC_SAFE_DELETE(subDict);
             }
-            
+			if (listener)
+				listener->OnNodeLoaded(gb);
             return gb;
         }
         

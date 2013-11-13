@@ -39,8 +39,8 @@ public:
     static CCSGUIReader* shareReader();
 	static void purgeCCSGUIReader();
     
-    UIWidget* widgetFromJsonFile(const char* fileName);
-    UIWidget* widgetFromJsonDictionary(cs::JsonDictionary* data);
+	UIWidget* widgetFromJsonFile(const char* fileName, ISceneReaderListener* listener);
+	UIWidget* widgetFromJsonDictionary(cs::JsonDictionary* data, ISceneReaderListener* listener);
     
     int getVersionInteger(const char* str);
     

@@ -6,7 +6,7 @@
       "name": "LogoAnimation",
       "bone_data": [
         {
-          "name": "Layer10",
+          "name": "LogoText",
           "parent": "",
           "x": 0.0,
           "y": -56.603782653808594,
@@ -112,7 +112,7 @@
           "sc": 0.5,
           "mov_bone_data": [
             {
-              "name": "Layer10",
+              "name": "LogoText",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -124,7 +124,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 0,
+                  "fi": 63,
                   "twE": 0,
                   "tweenFrame": true,
                   "color": [
@@ -141,21 +141,8 @@
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 60,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.14166665,
-                  "cY": 1.11333334,
+                  "cX": 1.122807,
+                  "cY": 1.09824562,
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 77,
@@ -683,6 +670,6 @@
     }
   ],
   "config_file_path": [
-    "LOGOAN~10.plist"
+    "LogoAnimation0.plist"
   ]
 }

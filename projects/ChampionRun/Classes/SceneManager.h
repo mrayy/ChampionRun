@@ -28,6 +28,12 @@ public:
     
     
     SceneManager();
+
+	void InitArmatures(const std::string& desc);
+	void InitArmaturesXML(const tinyxml2::XMLElement* elem);
+
+
+	void Init();
     
     cocos2d::Scene* LoadScene(const std::string& scene);
     cocos2d::Node* LoadNode(const std::string& scene);
@@ -41,7 +47,7 @@ public:
         if(s_instance==NULL)
         {
             s_instance=new SceneManager();
-            s_instance->registerDefaults();
+			s_instance->Init();
         }
         
         return s_instance;

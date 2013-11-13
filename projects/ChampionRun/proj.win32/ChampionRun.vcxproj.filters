@@ -160,6 +160,9 @@
     <ClInclude Include="..\Classes\libs\FFTW\kiss_fftr.h">
       <Filter>libs\FFTW</Filter>
     </ClInclude>
+    <ClInclude Include="..\Classes\UIEvents.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="game.rc" />

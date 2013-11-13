@@ -30,7 +30,12 @@
 #include "ExtensionMacros.h"
 
 NS_CC_EXT_BEGIN
-
+class ISceneReaderListener
+{
+public:
+	virtual void OnNodeLoaded(Node* node){}
+	virtual void OnWidgetLoaded(UIWidget* widget){}
+};
 class SceneReader
 {
 public:
@@ -48,10 +53,10 @@ public:
     static SceneReader* getInstance();
     void purgeSceneReader();
     static const char* sceneReaderVersion();
-    cocos2d::Node* createNodeWithSceneFile(const char *pszFileName);
+	cocos2d::Node* createNodeWithSceneFile(const char *pszFileName, ISceneReaderListener* listener=0);
 
 private:
-    cocos2d::Node* createObject(cs::JsonDictionary * inputFiles, cocos2d::Node* parent);
+	cocos2d::Node* createObject(cs::JsonDictionary * inputFiles, cocos2d::Node* parent, ISceneReaderListener* listener );
     void setPropertyFromJsonDict(cocos2d::Node *node, cs::JsonDictionary* dict);
 
 private:

@@ -3,6 +3,7 @@
 #include "SceneManager.h"
 #include "Helpers.h"
 #include "SplashLayer.h"
+#include "MainMenuLayer.h"
 
 USING_NS_CC;
 
@@ -30,6 +31,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
 	Application::Platform platform = CCApplication::getInstance()->getTargetPlatform();
 	std::vector<std::string> searchPaths = CCFileUtils::getInstance()->getSearchPaths();
 	searchPaths.insert(searchPaths.begin(), "Published-iOS");
+	searchPaths.insert(searchPaths.begin(), "Resources");
 	searchPaths.insert(searchPaths.begin(), "Resources/Scenes");
 	CCFileUtils::getInstance()->setSearchPaths(searchPaths);
     if(platform==Application::Platform::OS_IPHONE || platform==Application::Platform::OS_IPAD)
@@ -75,7 +77,8 @@ bool AppDelegate::applicationDidFinishLaunching() {
     CCFileUtils::getInstance()->setSearchResolutionsOrder(resDir);
     //pDirector->setContentScaleFactor(resorceSize.width/designSize.width);
     //CCEGLView::getInstance()->setDesignResolutionSize(designSize.width, designSize.height, kResolutionNoBorder);
-
+	
+	SceneManager::instance();//make sure it is inited
 #ifdef _DEBUG
     // turn on display FPS
     pDirector->setDisplayStats(true);
@@ -86,7 +89,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // run
     //pDirector->runWithScene(SceneManager::instance()->LoadScene("MainMenuScene"));
     // 
-	pDirector->runWithScene(SplashLayer::scene());
+	pDirector->runWithScene(MainMenuLayer::scene());// SplashLayer::scene());
     //WalkDetectorScene::scene());//
 
     return true;

@@ -14,10 +14,16 @@
 #include "cocos-ext.h"
 
 class MenuAvatar;
-class MainMenuLayer:public CommonLayer,public extension::CCBSelectorResolver,public extension::CCBMemberVariableAssigner
+class MainMenuLayer:public CommonLayer,public extension::CCBSelectorResolver,public extension::CCBMemberVariableAssigner,public ISceneReaderListener
 {
 protected:
     MenuAvatar* m_yusha;
+
+	UILayer* m_UILayer;
+	extension::UIWidget* m_mainUI;
+	extension::UIWidget* m_questUI;
+	extension::UIWidget* m_statusUI;
+	extension::UIWidget* m_rankingUI;
 public:
     
     MainMenuLayer();
@@ -30,14 +36,22 @@ public:
     static void registerLoader();
     
     void switchToNextScreen();
+
+	void OnWidgetLoaded(UIWidget* widget);
+	void OnNodeLoaded(Node* node);
     
-    void onKingdomPress(Object* pSender);
-    void onStatusPress(Object* pSender);
-    void onQuestPress(Object* pSender);
-    void onStartPress(Object* pSender);
+	void onKingdomPress(Object* pSender, TouchEventType event);
+	void onStatusPress(Object* pSender, TouchEventType event);
+	void onQuestPress(Object* pSender, TouchEventType event);
+	void onStartPress(Object* pSender, TouchEventType event);
     
     void onAcceleration(Acceleration* acc, Event* event);
     
+	void onQuestBackPressed(Object* pSender, TouchEventType event);
+	void onQuestConfirmPressed(Object* pSender, TouchEventType event);
+	void onStatusBackPressed(Object* pSender, TouchEventType event);
+	void onRankingBackPressed(Object* pSender, TouchEventType event);
+
     
     virtual bool onAssignCCBMemberVariable(Object* pTarget, const char* pMemberVariableName, Node* pNode) ;
     
