@@ -21,9 +21,6 @@
     <ClCompile Include="..\Classes\SplashLayer.cpp">
       <Filter>Classes\Scenes</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\CommonLayer.cpp">
-      <Filter>Classes\Scenes</Filter>
-    </ClCompile>
     <ClCompile Include="..\Classes\libs\FANN\floatfann.c">
       <Filter>libs\FANN</Filter>
     </ClCompile>
@@ -50,6 +47,42 @@
     </ClCompile>
     <ClCompile Include="..\Classes\WalkTrainingNode.cpp">
       <Filter>Classes\Objects\Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StackNode.cpp">
+      <Filter>Classes\Objects\Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuestItemWidget.cpp">
+      <Filter>Classes\Objects\Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIMainMenuHandler.cpp">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIStatusMenuHandler.cpp">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIRankingMenuHandler.cpp">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CQuestManager.cpp">
+      <Filter>Classes\Objects\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIQuestMenuHandler.cpp">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BattleLayer.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuestAlarmLayer.cpp">
+      <Filter>Classes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CBattleCharacter.cpp">
+      <Filter>Classes\Objects\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIBattleStatusBar.cpp">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIBattleAttack.cpp">
+      <Filter>Classes\Objects\UI</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -157,11 +190,56 @@
     <ClInclude Include="..\Classes\WalkTrainingNode.h">
       <Filter>Classes\Objects\Nodes</Filter>
     </ClInclude>
-    <ClInclude Include="QuestItemNode.h">
+    <ClInclude Include="..\Classes\StackNode.h">
       <Filter>Classes\Objects\Nodes</Filter>
     </ClInclude>
-    <ClInclude Include="CQuestDescription.h">
+    <ClInclude Include="..\Classes\CPlayerData.h">
       <Filter>Classes\Objects\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CItem.h">
+      <Filter>Classes\Objects\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuestItemWidget.h">
+      <Filter>Classes\Objects\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CQuestDescription.h">
+      <Filter>Classes\Objects\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\IUIHandler.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIManager.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIMainMenuHandler.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIStatusMenuHandler.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIRankingMenuHandler.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CQuestManager.h">
+      <Filter>Classes\Objects\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIQuestMenuHandler.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BattleLayer.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuestAlarmLayer.h">
+      <Filter>Classes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CBattleCharacter.h">
+      <Filter>Classes\Objects\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIBattleStatusBar.h">
+      <Filter>Classes\Objects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIBattleAttack.h">
+      <Filter>Classes\Objects\UI</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -194,6 +272,12 @@
     </Filter>
     <Filter Include="Classes\Objects\Data">
       <UniqueIdentifier>{d2d2a8d2-32a5-470f-b6d6-03fc983aef75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Objects\UI">
+      <UniqueIdentifier>{e0862647-7163-4bf0-840b-1acb49b1635b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Objects\Entities">
+      <UniqueIdentifier>{1e5aa7b1-3450-45f8-9706-1c9da282c774}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

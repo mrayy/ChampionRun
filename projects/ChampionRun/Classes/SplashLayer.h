@@ -15,26 +15,29 @@
 #include "cocos-ext.h"
 
 USING_NS_CC;
-
-class SplashLayer:public Layer
+namespace ChampionRun
 {
-public:
-    virtual bool init();
-    
-    // there's no 'id' in cpp, so we recommend returning the class instance pointer
-    static cocos2d::Scene* scene();
-    
-    static void registerLoader();
-    
-    void switchToNextScreen();
-    
-    // implement the "static node()" method manually
-    CREATE_FUNC(SplashLayer);
-    
-    
-};
 
-COMMON_LAYER_LOADER_BEGIN(SplashLayer,LayerLoader);
-COMMON_LAYER_LOADER_END();
+	class SplashLayer :public Layer
+	{
+	public:
+		virtual bool init();
+
+		// there's no 'id' in cpp, so we recommend returning the class instance pointer
+		static cocos2d::Scene* scene();
+
+		static void registerLoader();
+
+		void switchToNextScreen();
+
+		// implement the "static node()" method manually
+		CREATE_FUNC(SplashLayer);
+
+
+	};
+
+	COMMON_LAYER_LOADER_BEGIN(SplashLayer, LayerLoader);
+	COMMON_LAYER_LOADER_END();
+}
 
 #endif /* defined(__ChampionRun__SplashLayer__) */

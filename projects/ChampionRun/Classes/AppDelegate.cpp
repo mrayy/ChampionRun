@@ -4,6 +4,8 @@
 #include "Helpers.h"
 #include "SplashLayer.h"
 #include "MainMenuLayer.h"
+#include "QuestAlarmLayer.h"
+#include "BattleLayer.h"
 
 USING_NS_CC;
 
@@ -77,7 +79,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     pDirector->setContentScaleFactor(resorceSize.width/designSize.width);
     CCEGLView::getInstance()->setDesignResolutionSize(designSize.width, designSize.height, kResolutionNoBorder);
 	
-	SceneManager::instance();//make sure it is inited
+	ChampionRun::SceneManager::instance();//make sure it is inited
 #ifdef _DEBUG
     // turn on display FPS
     pDirector->setDisplayStats(true);
@@ -88,7 +90,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // run
     //pDirector->runWithScene(SceneManager::instance()->LoadScene("MainMenuScene"));
     // 
-	pDirector->runWithScene(MainMenuLayer::scene());// SplashLayer::scene());
+	pDirector->runWithScene(ChampionRun::BattleLayer::scene());// SplashLayer::scene());//MainMenuLayer//QuestAlarmLayer
     //WalkDetectorScene::scene());//
 
     return true;

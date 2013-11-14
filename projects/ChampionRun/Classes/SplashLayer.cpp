@@ -11,6 +11,8 @@
 #include "MainMenuLayer.h"
 
 
+namespace ChampionRun
+{
 bool SplashLayer::init()
 {
     if(!CCLayer::init())
@@ -65,4 +67,5 @@ cocos2d::Scene* SplashLayer::scene()
     layer->init();
 	scene->addChild(layer);
     return scene;
+}
 }

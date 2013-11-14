@@ -14,11 +14,11 @@
     <Path>Characters/Skeleton.ExportJson</Path>
     <Scale>0.6,0.6</Scale>
   </Armature>
-  <Armature>
+  <Armature__>
     <Name>Slime</Name>
     <Path>Characters/Slime.ExportJson</Path>
     <Scale>1,1</Scale>
-  </Armature>
+  </Armature__>
   <Armature>
     <Name>Gyojin</Name>
     <Path>Characters/Gyojin.ExportJson</Path>

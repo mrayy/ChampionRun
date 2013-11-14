@@ -1,0 +1,32 @@
+<Quests>
+  <Quest>
+    <Name>Explore Yokohama</Name>
+    <Desc>Go to Yokohama station, find some nice shops</Desc>
+    <Type>Explore</Type>
+  </Quest>
+
+  <Quest>
+    <Name>Explore Hiyoshi</Name>
+    <Desc>Have you tried the Ramen shops in Hiyoshi?</Desc>
+    <Type>Explore</Type>
+  </Quest>
+
+  <Quest>
+    <Name>Run for the day!</Name>
+    <Desc>Go Go Go! Move your body, a beautiful day today</Desc>
+    <Type>Run</Type>
+  </Quest>
+
+  <Quest>
+    <Name>Run for yourself</Name>
+    <Desc>Burn some calories, move your ass!</Desc>
+    <Type>Run</Type>
+  </Quest>
+
+  <Quest>
+    <Name>Time to glory!</Name>
+    <Desc>Fight the boss, get your glory</Desc>
+    <Type>Boss</Type>
+  </Quest>
+
+</Quests>

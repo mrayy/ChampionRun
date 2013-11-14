@@ -373,9 +373,9 @@
       "name": "Slime",
       "mov_data": [
         {
-          "name": "slime_attack",
+          "name": "attack",
           "dr": 60,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -1080,7 +1080,7 @@
           ]
         },
         {
-          "name": "slime_stand",
+          "name": "stand",
           "dr": 60,
           "lp": true,
           "to": 0,
@@ -1136,7 +1136,7 @@
           ]
         },
         {
-          "name": "slime_run",
+          "name": "run",
           "dr": 60,
           "lp": true,
           "to": 0,
@@ -1226,9 +1226,9 @@
           ]
         },
         {
-          "name": "slime_damage",
+          "name": "damage",
           "dr": 60,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -1441,9 +1441,9 @@
           ]
         },
         {
-          "name": "slime_dead",
+          "name": "dead",
           "dr": 60,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -1476,6 +1476,19 @@
                   "kX": 0.0490751155,
                   "kY": -0.0490751155,
                   "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 36.66668701171875,
+                  "y": -783.333740234375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0490751155,
+                  "kY": -0.0490751155,
+                  "fi": 60,
                   "twE": 0,
                   "tweenFrame": true
                 }
@@ -1561,8 +1574,8 @@
                 },
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": -30.0,
+                  "x": 13.333343505859375,
+                  "y": -416.66671752929688,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
@@ -1570,7 +1583,15 @@
                   "kY": 0.0,
                   "fi": 60,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "color": [
+                    {
+                      "a": 255,
+                      "r": 255,
+                      "g": 255,
+                      "b": 255
+                    }
+                  ]
                 }
               ]
             }
@@ -1638,8 +1659,8 @@
     }
   ],
   "config_file_path": [
-    "SLIMEX~10.plist",
-    "SLIMEX~11.plist",
-    "SLIMEX~12.plist"
+    "Slime0.plist",
+    "Slime1.plist",
+    "Slime2.plist"
   ]
 }
