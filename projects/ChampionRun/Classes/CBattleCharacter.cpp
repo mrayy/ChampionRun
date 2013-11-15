@@ -127,7 +127,7 @@ namespace ChampionRun
 
 	void CBattleCharacter::_doAttack()
 	{
-		float d = 15 * m_power;
+		float d = 30 * m_power;
 		float e = 10 * m_power;
 		m_target->Damage(d);
 		m_ep -= e;

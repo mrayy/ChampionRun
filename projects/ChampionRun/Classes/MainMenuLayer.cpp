@@ -1,3 +1,4 @@
+
 //
 //  MainMenuLayer.cpp
 //  ChampionRun
@@ -297,6 +298,11 @@ namespace ChampionRun
 			return true;
 		}
 
+        void restart()
+        {
+            m_status=EStatus::EIdle;
+            m_hero->getAnimation()->play("stand");
+        }
 		void Start()
 		{
 			m_status = EStatus::EEnter;
@@ -447,6 +453,11 @@ namespace ChampionRun
 	{
 
 	}
+    
+    void MainMenuLayer::Reset()
+    {
+        m_yusha->restart();
+    }
 	void MainMenuLayer::registerLoader()
 	{
 		SceneManager::instance()->registerLoader(MainMenuLayerLoader::loader());
@@ -491,16 +502,20 @@ namespace ChampionRun
 	}
 	}*/
 	// there's no 'id' in cpp, so we recommend returning the class instance pointer
+    
+    cocos2d::Scene* MainMenuLayer::s_scene=0;
+    MainMenuLayer* MainMenuLayer::s_layer=0;
 	cocos2d::Scene* MainMenuLayer::scene()
 	{
 
 		// 'scene' is an autorelease object
 		//Scene *scene = SceneManager::instance()->LoadScene("MainMenuScene");
 		// return the scene
-		Scene* scene = new Scene();
-		MainMenuLayer* layer = new MainMenuLayer();
-		layer->init();
-		scene->addChild(layer);
-		return scene;
+        
+            s_scene = new Scene();
+            s_layer = new MainMenuLayer();
+            s_layer->init();
+            s_scene->addChild(s_layer);
+		return s_scene;
 	}
 }

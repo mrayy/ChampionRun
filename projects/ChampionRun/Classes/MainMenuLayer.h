@@ -21,6 +21,8 @@ namespace ChampionRun
 	class MainMenuLayer :public CommonLayer, public ChampionRun::IUIMainMenuListener, public ISceneReaderListener
 	{
 	protected:
+        static Scene* s_scene;
+        static MainMenuLayer* s_layer;
 		MenuAvatar* m_yusha;
 		bool m_started;
 		UILayer* m_UILayer;
@@ -45,7 +47,11 @@ namespace ChampionRun
 
 		void onAcceleration(Acceleration* acc, Event* event);
 
+        void Reset();
+        
 		virtual void OnStartPress();
+        
+        static MainMenuLayer* GetLayer(){return s_layer;}
 
 		// implement the "static node()" method manually
 		CREATE_FUNC(MainMenuLayer);

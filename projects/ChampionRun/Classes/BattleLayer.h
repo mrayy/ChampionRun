@@ -48,11 +48,14 @@ protected:
 
 	float m_turnTime;
 	float m_power;
+    
+    void StartAttack(float);
 public:
 	BattleLayer();
 	virtual~BattleLayer();
 	virtual bool init();
 
+    virtual void onEnter();
 	static cocos2d::Scene* scene();
 
 	static void registerLoader();

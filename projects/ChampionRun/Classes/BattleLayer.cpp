@@ -2,6 +2,7 @@
 
 #include "BattleLayer.h"
 #include "UIBattleStatusBar.h"
+#include "MainMenuLayer.h"
 
 namespace ChampionRun
 {
@@ -41,7 +42,6 @@ namespace ChampionRun
 			m_playerNode->addChild(m_player->GetNode());
 			m_enemyNode->addChild(m_enemy->GetNode());
 
-			m_player->Attack(m_enemy);
 		}
 		{
 			m_attackUI = new UIBattleAttack();
@@ -81,6 +81,17 @@ namespace ChampionRun
 		return scene;
 
 	}
+        void BattleLayer::StartAttack(float)
+    {
+        
+        m_player->Attack(m_enemy);
+
+    }
+    void BattleLayer::onEnter()
+    {
+        Layer::onEnter();
+        this->scheduleOnce((SEL_SCHEDULE)&BattleLayer::StartAttack, 3);
+    }
 
 	void BattleLayer::registerLoader()
 	{
@@ -146,6 +157,11 @@ namespace ChampionRun
 		}
 		m_attackUI->SetTime01(t);
 		m_attackUI->SetPower(m_power);
+        
+        if(m_enemy->IsDead())
+        {
+            //Director::getInstance()->replaceScene(TransitionFade::create(5, MainMenuLayer::scene()));
+        }
 
 	}
 

@@ -40,8 +40,9 @@ namespace ChampionRun
 		void menuTrainRestartCallback(Object* pSender);
 
 		void menuDetectLoadCallback(Object* pSender);
-
+        
 		void menuBackCallback(Object* pSender);
+		void menuReturnCallback(Object* pSender);
 
 		void onAcceleration(Acceleration* acc, Event* event);
 

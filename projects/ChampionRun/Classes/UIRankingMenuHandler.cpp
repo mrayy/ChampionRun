@@ -25,7 +25,7 @@ namespace ChampionRun
 
 	void UIRankingMenuHandler::init()
 	{
-		SetPanel(CCUIHELPER->createWidgetFromJsonFile("ui/RankingMenuUI.ExportJson", this));
+		SetPanel(CCUIHELPER->createWidgetFromJsonFile("UI/RankingMenuUI.ExportJson", this));
 
 	}
 	void UIRankingMenuHandler::onBackPressed(Object* sender, TouchEventType event)

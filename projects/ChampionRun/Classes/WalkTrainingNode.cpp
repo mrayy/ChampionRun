@@ -163,7 +163,10 @@ namespace cocos2d
     }
     void WalkTrainingNode::LoadTraining(const std::string& name)
     {
-        m_detectNet->create_from_file(name+".network");
+        std::string path=FileUtils::getInstance()->fullPathForFilename(name+".network");
+        if(path=="" || path==name+".network")
+            return;
+        m_detectNet->create_from_file(path);
     }
 
     void WalkTrainingNode::RestartTraining()

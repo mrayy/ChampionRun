@@ -29,7 +29,7 @@ namespace ChampionRun
 
 	void UIMainMenuHandler::init()
 	{
-		SetPanel(CCUIHELPER->createWidgetFromJsonFile("ui/MainMenuUI.ExportJson", this));
+		SetPanel(CCUIHELPER->createWidgetFromJsonFile("UI/MainMenuUI.ExportJson", this));
 		m_questHandler = new UIQuestMenuHandler();
 		m_questHandler->init();
 		m_statusHandler= new UIStatusMenuHandler();

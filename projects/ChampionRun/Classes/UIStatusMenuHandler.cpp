@@ -25,7 +25,7 @@ namespace ChampionRun
 
 	void UIStatusMenuHandler::init()
 	{
-		SetPanel(CCUIHELPER->createWidgetFromJsonFile("ui/StatusMenuUI.ExportJson", this));
+		SetPanel(CCUIHELPER->createWidgetFromJsonFile("UI/StatusMenuUI.ExportJson", this));
 
 	}
 	void UIStatusMenuHandler::onBackPressed(Object* sender, TouchEventType event)

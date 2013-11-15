@@ -5,6 +5,8 @@
 #include "UIEvents.h"
 #include "CQuestManager.h"
 
+#include "WalkDetectorScene.h"
+
 namespace ChampionRun
 {
 
@@ -42,7 +44,9 @@ namespace ChampionRun
 	{
 
 		if (event == TouchEventType::TOUCH_EVENT_ENDED)
-			CCLOG("onQuestConfirmPressed\n");
+        {
+            Director::getInstance()->replaceScene(TransitionFade::create(5, WalkDetectorScene::scene()));
+        }
 	}
 
 	void UIQuestMenuHandler::SetPanel(UIWidget* panel)

@@ -4,6 +4,7 @@
 
 #include "WalkDetectorNode.h"
 #include "WalkTrainingNode.h"
+#include "MainMenuLayer.h"
 
 #include "Helpers.h"
 
@@ -81,6 +82,7 @@ namespace ChampionRun
 			items.init();
 			items.addObject(MenuItemLabel::create(LabelTTF::create("Training", "Arial", 24), this, menu_selector(WalkDetectorScene::menuTrainingCallback)));
 			items.addObject(MenuItemLabel::create(LabelTTF::create("Detect", "Arial", 24), this, menu_selector(WalkDetectorScene::menuDetectCallback)));
+			items.addObject(MenuItemLabel::create(LabelTTF::create("Back", "Arial", 24), this, menu_selector(WalkDetectorScene::menuReturnCallback)));
 
 			float x = ((MenuItemLabel*)items.getObjectAtIndex(0))->getContentSize().width;
 			for (int i = 0; i < items.count(); ++i) {
@@ -262,4 +264,9 @@ namespace ChampionRun
 
 		m_trainingNode->Stop();
 	}
+    
+    void WalkDetectorScene::menuReturnCallback(Object* sender)
+    {
+        Director::getInstance()->replaceScene(TransitionFade::create(5, MainMenuLayer::scene()));
+    }
 }
