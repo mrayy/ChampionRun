@@ -29,7 +29,7 @@ bool SplashLayer::init()
 	bg->addChild(screen);
 	screen->setAnchorPoint(Point(0, 0));*/
 
-	armature::Armature* logo=armature::Armature::create("LogoAnimation");
+	armature::Armature* logo=SceneManager::instance()->LoadArmature("LogoAnimation");
 	if (logo)
 	{
 		logo->getAnimation()->playByIndex(0);

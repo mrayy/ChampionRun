@@ -35,6 +35,8 @@ bool AppDelegate::applicationDidFinishLaunching() {
 	searchPaths.insert(searchPaths.begin(), "Published-iOS");
 	searchPaths.insert(searchPaths.begin(), "Published-iOS/Scenes");
 	CCFileUtils::getInstance()->setSearchPaths(searchPaths);
+    resDir.push_back("resources-iphonehd");
+    /*
     if(platform==Application::Platform::OS_IPHONE || platform==Application::Platform::OS_IPAD)
     {
         
@@ -51,7 +53,6 @@ bool AppDelegate::applicationDidFinishLaunching() {
                 if(screenSize.height>480)
                 {
                     resorceSize=Size(1136,640);
-                    resDir.push_back("resources-iphonehd");
                 }else
                 {
                     resDir.push_back("resources-iphone");
@@ -73,7 +74,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
                 resorceSize=Size(568,320);
                 resDir.push_back("resources-small");
             }
-    }
+    }*/
     
     CCFileUtils::getInstance()->setSearchResolutionsOrder(resDir);
     pDirector->setContentScaleFactor(resorceSize.width/designSize.width);
@@ -90,7 +91,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // run
     //pDirector->runWithScene(SceneManager::instance()->LoadScene("MainMenuScene"));
     // 
-	pDirector->runWithScene(ChampionRun::BattleLayer::scene());// SplashLayer::scene());//MainMenuLayer//QuestAlarmLayer
+	pDirector->runWithScene(ChampionRun::QuestAlarmLayer::scene());// SplashLayer::scene());//MainMenuLayer//QuestAlarmLayer
     //WalkDetectorScene::scene());//
 
     return true;

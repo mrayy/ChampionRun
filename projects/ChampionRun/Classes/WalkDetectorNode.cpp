@@ -7,7 +7,7 @@
 //
 
 #include "WalkDetectorNode.h"
-#include "libs\FFTW\CFftw.h"
+#include "libs/FFTW/CFft.h"
 
 namespace cocos2d
 {

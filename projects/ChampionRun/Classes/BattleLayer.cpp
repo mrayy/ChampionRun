@@ -24,18 +24,18 @@ namespace ChampionRun
 		m_power = 0;
 
 		Size sz = Director::getInstance()->getWinSize();
-		Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("Battle.json", this);
+		Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("Scenes/Battle.json", this);
 		screen->setAnchorPoint(Point(0, 0));
 		addChild(screen);
 
 
 		{
 			m_player = new ChampionRun::CBattleCharacter();
-			m_player->init("Yusha", "ui/chars/Yusha_icon_normal.png",this);
+			m_player->init("Yusha", "UI/chars/Yusha_icon_normal.png",this);
 			m_player->SetDirection(ChampionRun::ECharacterDirection::Right);
 
 			m_enemy = new ChampionRun::CBattleCharacter();
-			m_enemy->init("Gyojin", "ui/chars/Gyojin_icon_normal.png", this);
+			m_enemy->init("Gyojin", "UI/chars/Gyojin_icon_normal.png", this);
 			m_enemy->SetDirection(ChampionRun::ECharacterDirection::Left);
 
 			m_playerNode->addChild(m_player->GetNode());
@@ -58,6 +58,11 @@ namespace ChampionRun
 			m_playerUI = new UIBattleStatusBar();
 			m_playerUI->init(m_player);
 			m_playerStatusNode->addChild(m_playerUI->GetLayer(), 10);
+		}
+		{
+			m_turnUI = new UIBattleTurn();
+			m_turnUI->init();
+			m_turnNode->addChild(m_turnUI->GetLayer(), 10);
 		}
 
 		scheduleUpdate();
@@ -114,6 +119,10 @@ namespace ChampionRun
 		else if (node->GetName() == "PlayerPosition")
 		{
 			m_playerNode = node;
+		}
+		else if (node->GetName() == "TurnLabel")
+		{
+			m_turnNode = node;
 		}
 	}
 

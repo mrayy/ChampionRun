@@ -226,7 +226,12 @@ namespace ChampionRun
 					m_entity->getAnimation()->play("attack");
 				}
 				break;
-			case MenuEnemy::EStatus::EAttack:
+                case MenuEnemy::EStatus::EAttack:
+                    if (m_entity->getAnimation()->getIsComplete() == true)
+                    {
+                        m_entity->getAnimation()->play("attack");
+                    }
+
 				break;
 			case MenuEnemy::EStatus::EDie:
 				if (m_entity->getAnimation()->getIsComplete() == true)
@@ -357,7 +362,11 @@ namespace ChampionRun
 					m_status = EStatus::EIdle;
 					m_enemy->Kill();
 					m_hero->getAnimation()->play("stand");
-				}
+				}else if (m_hero->getAnimation()->getIsComplete() == true)
+                {
+                    m_hero->getAnimation()->play("attack");
+                }
+
 				break;
 			case MenuAvatar::EStatus::EStartGame:
 				break;
@@ -393,7 +402,7 @@ namespace ChampionRun
 
 		m_started = false;
 		Size sz = Director::getInstance()->getWinSize();
-		Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("MainMenuScreen.json", this);
+		Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("Scenes/MainMenuScreen.json", this);
 		screen->setAnchorPoint(Point(0, 0));
 		addChild(screen);
 

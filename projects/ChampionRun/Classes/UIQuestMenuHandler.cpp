@@ -27,7 +27,7 @@ namespace ChampionRun
 
 	void UIQuestMenuHandler::init()
 	{
-		SetPanel(CCUIHELPER->createWidgetFromJsonFile("ui/QuestMenuUI.ExportJson", this));
+		SetPanel(CCUIHELPER->createWidgetFromJsonFile("UI/QuestMenuUI.ExportJson", this));
 
 	}
 	void UIQuestMenuHandler::onQuestBackPressed(Object* sender, TouchEventType event)

@@ -21,6 +21,7 @@
 #include "cocos-ext.h"
 #include "CBattleCharacter.h"
 #include "UIBattleAttack.h"
+#include "UIBattleTurn.h"
 
 
 namespace ChampionRun
@@ -33,6 +34,7 @@ protected:
 	Node* m_playerStatusNode;
 	Node* m_enemyNode;
 	Node* m_playerNode;
+	Node* m_turnNode;
 
 	ChampionRun::CBattleCharacter* m_player;
 	ChampionRun::CBattleCharacter* m_enemy;
@@ -41,6 +43,8 @@ protected:
 	UIBattleStatusBar* m_enemyUI;
 
 	UIBattleAttack* m_attackUI;
+    
+    UIBattleTurn* m_turnUI;
 
 	float m_turnTime;
 	float m_power;

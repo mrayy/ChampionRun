@@ -12,7 +12,7 @@
 #include <iostream>
 #include "cocos2d.h"
 
-#include "libs\FFTW\CFft.h"
+#include "libs/FFTW/CFft.h"
 #include "MeshBuffer.h"
 
 namespace cocos2d

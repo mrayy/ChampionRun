@@ -14,7 +14,7 @@
 #include "SplashLayer.h"
 #include "MainMenuLayer.h"
 
-#include "libs\tinyxml2.h"
+#include "libs/tinyxml2.h"
 
 USING_NS_CC;
 

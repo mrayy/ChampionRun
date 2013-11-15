@@ -51,23 +51,31 @@
 		50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629517ECD46A001EB2F8 /* Icon-100.png */; };
 		50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A017ECD613001EB2F8 /* Icon-29.png */; };
 		50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A117ECD613001EB2F8 /* Icon-50.png */; };
-		A3091A37182A587E00E9FA49 /* kiss_fft.c in Sources */ = {isa = PBXBuildFile; fileRef = A3091A33182A587E00E9FA49 /* kiss_fft.c */; };
-		A3091A38182A587E00E9FA49 /* kiss_fftr.c in Sources */ = {isa = PBXBuildFile; fileRef = A3091A35182A587E00E9FA49 /* kiss_fftr.c */; };
-		A3091A42182A58C900E9FA49 /* CFft.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3091A3B182A58C900E9FA49 /* CFft.cpp */; };
-		A3091A43182A58CA00E9FA49 /* CFftBasic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3091A3D182A58C900E9FA49 /* CFftBasic.cpp */; };
-		A3091A44182A58CA00E9FA49 /* CFftw.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3091A3F182A58C900E9FA49 /* CFftw.cpp */; };
 		A33F4AC9182F5AA0001888ED /* WalkTrainingNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A33F4AC7182F5AA0001888ED /* WalkTrainingNode.cpp */; };
 		A33F4ACE182F62A9001888ED /* WalkNodeBase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A33F4ACD182F62A9001888ED /* WalkNodeBase.cpp */; };
 		A33F4AF1182F71D8001888ED /* floatfann.c in Sources */ = {isa = PBXBuildFile; fileRef = A33F4AE7182F71D8001888ED /* floatfann.c */; };
+		A37F92F01835B357007DAFAC /* BattleLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92EE1835B357007DAFAC /* BattleLayer.cpp */; };
+		A37F92F71835B36C007DAFAC /* CBattleCharacter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92F11835B36C007DAFAC /* CBattleCharacter.cpp */; };
+		A37F92F81835B36C007DAFAC /* CQuestManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92F51835B36C007DAFAC /* CQuestManager.cpp */; };
+		A37F92FB1835B377007DAFAC /* QuestAlarmLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92F91835B377007DAFAC /* QuestAlarmLayer.cpp */; };
+		A37F930F1835B393007DAFAC /* QuestItemWidget.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92FD1835B393007DAFAC /* QuestItemWidget.cpp */; };
+		A37F93101835B393007DAFAC /* StackNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F92FF1835B393007DAFAC /* StackNode.cpp */; };
+		A37F93111835B393007DAFAC /* UIBattleAttack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93011835B393007DAFAC /* UIBattleAttack.cpp */; };
+		A37F93121835B393007DAFAC /* UIBattleStatusBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93031835B393007DAFAC /* UIBattleStatusBar.cpp */; };
+		A37F93131835B393007DAFAC /* UIMainMenuHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93061835B393007DAFAC /* UIMainMenuHandler.cpp */; };
+		A37F93141835B393007DAFAC /* UIQuestMenuHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93091835B393007DAFAC /* UIQuestMenuHandler.cpp */; };
+		A37F93151835B393007DAFAC /* UIRankingMenuHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F930B1835B393007DAFAC /* UIRankingMenuHandler.cpp */; };
+		A37F93161835B393007DAFAC /* UIStatusMenuHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F930D1835B393007DAFAC /* UIStatusMenuHandler.cpp */; };
+		A37F93231835B4F6007DAFAC /* CFft.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93191835B4F6007DAFAC /* CFft.cpp */; };
+		A37F93241835B4F6007DAFAC /* CFftBasic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F931B1835B4F6007DAFAC /* CFftBasic.cpp */; };
+		A37F93251835B4F6007DAFAC /* kiss_fft.c in Sources */ = {isa = PBXBuildFile; fileRef = A37F931F1835B4F6007DAFAC /* kiss_fft.c */; };
+		A37F93261835B4F6007DAFAC /* kiss_fftr.c in Sources */ = {isa = PBXBuildFile; fileRef = A37F93211835B4F6007DAFAC /* kiss_fftr.c */; };
+		A37F93291835C1B8007DAFAC /* UIBattleTurn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A37F93271835C1B8007DAFAC /* UIBattleTurn.cpp */; };
 		A382591D1827BE9500059E91 /* ParallaxNodeExtra.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A382591B1827BE9500059E91 /* ParallaxNodeExtra.cpp */; };
 		A3825920182890DB00059E91 /* WalkDetectorNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A382591E182890DB00059E91 /* WalkDetectorNode.cpp */; };
 		A3825922182895DF00059E91 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3825921182895DF00059E91 /* CoreLocation.framework */; };
-		A3851F9F182FE60E00E233D3 /* green_edit.png in Resources */ = {isa = PBXBuildFile; fileRef = A3851F9E182FE60E00E233D3 /* green_edit.png */; };
-		A3851FA9182FED4F00E233D3 /* Done.wav in Resources */ = {isa = PBXBuildFile; fileRef = A3851FA8182FED4F00E233D3 /* Done.wav */; };
 		A39070531830AC4200544C05 /* tinyxml2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A39070511830AC4200544C05 /* tinyxml2.cpp */; };
 		A390705D1830B45800544C05 /* MeshBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A390705B1830B45800544C05 /* MeshBuffer.cpp */; };
-		A3A59306182A72A2001CF2CB /* fftw3f.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A3A59305182A72A2001CF2CB /* fftw3f.a */; };
-		A3C2D135183110DD001AB0A7 /* Yamen.network in Resources */ = {isa = PBXBuildFile; fileRef = A3C2D134183110DD001AB0A7 /* Yamen.network */; };
 		A3D7D36318252FD000B579C3 /* MainMenuLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3D7D35518252FD000B579C3 /* MainMenuLayer.cpp */; };
 		A3D7D36418252FD000B579C3 /* CommonLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3D7D35718252FD000B579C3 /* CommonLayer.cpp */; };
 		A3D7D36518252FD000B579C3 /* WalkDetectorScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3D7D35818252FD000B579C3 /* WalkDetectorScene.cpp */; };
@@ -295,18 +303,6 @@
 		50EF629517ECD46A001EB2F8 /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-100.png"; sourceTree = "<group>"; };
 		50EF62A017ECD613001EB2F8 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
 		50EF62A117ECD613001EB2F8 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
-		A3091A30182A587E00E9FA49 /* fftw3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fftw3.h; sourceTree = "<group>"; };
-		A3091A32182A587E00E9FA49 /* _kiss_fft_guts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _kiss_fft_guts.h; sourceTree = "<group>"; };
-		A3091A33182A587E00E9FA49 /* kiss_fft.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = kiss_fft.c; sourceTree = "<group>"; };
-		A3091A34182A587E00E9FA49 /* kiss_fft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kiss_fft.h; sourceTree = "<group>"; };
-		A3091A35182A587E00E9FA49 /* kiss_fftr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = kiss_fftr.c; sourceTree = "<group>"; };
-		A3091A36182A587E00E9FA49 /* kiss_fftr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kiss_fftr.h; sourceTree = "<group>"; };
-		A3091A3B182A58C900E9FA49 /* CFft.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CFft.cpp; sourceTree = "<group>"; };
-		A3091A3C182A58C900E9FA49 /* CFft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFft.h; sourceTree = "<group>"; };
-		A3091A3D182A58C900E9FA49 /* CFftBasic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CFftBasic.cpp; sourceTree = "<group>"; };
-		A3091A3E182A58C900E9FA49 /* CFftBasic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFftBasic.h; sourceTree = "<group>"; };
-		A3091A3F182A58C900E9FA49 /* CFftw.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CFftw.cpp; sourceTree = "<group>"; };
-		A3091A40182A58C900E9FA49 /* CFftw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFftw.h; sourceTree = "<group>"; };
 		A33F4AC7182F5AA0001888ED /* WalkTrainingNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WalkTrainingNode.cpp; path = ../Classes/WalkTrainingNode.cpp; sourceTree = "<group>"; };
 		A33F4AC8182F5AA0001888ED /* WalkTrainingNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WalkTrainingNode.h; path = ../Classes/WalkTrainingNode.h; sourceTree = "<group>"; };
 		A33F4ACB182F5AC5001888ED /* WalkNodeBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WalkNodeBase.h; path = ../Classes/WalkNodeBase.h; sourceTree = "<group>"; };
@@ -323,21 +319,58 @@
 		A33F4AE2182F71D8001888ED /* fann_train.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fann_train.h; path = FANN/fann_train.h; sourceTree = "<group>"; };
 		A33F4AE7182F71D8001888ED /* floatfann.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = floatfann.c; path = FANN/floatfann.c; sourceTree = "<group>"; };
 		A33F4AE8182F71D8001888ED /* floatfann.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = floatfann.h; path = FANN/floatfann.h; sourceTree = "<group>"; };
+		A37F92EE1835B357007DAFAC /* BattleLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BattleLayer.cpp; path = ../Classes/BattleLayer.cpp; sourceTree = "<group>"; };
+		A37F92EF1835B357007DAFAC /* BattleLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BattleLayer.h; path = ../Classes/BattleLayer.h; sourceTree = "<group>"; };
+		A37F92F11835B36C007DAFAC /* CBattleCharacter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CBattleCharacter.cpp; path = ../Classes/CBattleCharacter.cpp; sourceTree = "<group>"; };
+		A37F92F21835B36C007DAFAC /* CBattleCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CBattleCharacter.h; path = ../Classes/CBattleCharacter.h; sourceTree = "<group>"; };
+		A37F92F31835B36C007DAFAC /* CPlayerData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CPlayerData.h; path = ../Classes/CPlayerData.h; sourceTree = "<group>"; };
+		A37F92F41835B36C007DAFAC /* CQuestDescription.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CQuestDescription.h; path = ../Classes/CQuestDescription.h; sourceTree = "<group>"; };
+		A37F92F51835B36C007DAFAC /* CQuestManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CQuestManager.cpp; path = ../Classes/CQuestManager.cpp; sourceTree = "<group>"; };
+		A37F92F61835B36C007DAFAC /* CQuestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CQuestManager.h; path = ../Classes/CQuestManager.h; sourceTree = "<group>"; };
+		A37F92F91835B377007DAFAC /* QuestAlarmLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = QuestAlarmLayer.cpp; path = ../Classes/QuestAlarmLayer.cpp; sourceTree = "<group>"; };
+		A37F92FA1835B377007DAFAC /* QuestAlarmLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QuestAlarmLayer.h; path = ../Classes/QuestAlarmLayer.h; sourceTree = "<group>"; };
+		A37F92FD1835B393007DAFAC /* QuestItemWidget.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = QuestItemWidget.cpp; path = ../Classes/QuestItemWidget.cpp; sourceTree = "<group>"; };
+		A37F92FE1835B393007DAFAC /* QuestItemWidget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QuestItemWidget.h; path = ../Classes/QuestItemWidget.h; sourceTree = "<group>"; };
+		A37F92FF1835B393007DAFAC /* StackNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = StackNode.cpp; path = ../Classes/StackNode.cpp; sourceTree = "<group>"; };
+		A37F93001835B393007DAFAC /* StackNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StackNode.h; path = ../Classes/StackNode.h; sourceTree = "<group>"; };
+		A37F93011835B393007DAFAC /* UIBattleAttack.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIBattleAttack.cpp; path = ../Classes/UIBattleAttack.cpp; sourceTree = "<group>"; };
+		A37F93021835B393007DAFAC /* UIBattleAttack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBattleAttack.h; path = ../Classes/UIBattleAttack.h; sourceTree = "<group>"; };
+		A37F93031835B393007DAFAC /* UIBattleStatusBar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIBattleStatusBar.cpp; path = ../Classes/UIBattleStatusBar.cpp; sourceTree = "<group>"; };
+		A37F93041835B393007DAFAC /* UIBattleStatusBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBattleStatusBar.h; path = ../Classes/UIBattleStatusBar.h; sourceTree = "<group>"; };
+		A37F93051835B393007DAFAC /* UIEvents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIEvents.h; path = ../Classes/UIEvents.h; sourceTree = "<group>"; };
+		A37F93061835B393007DAFAC /* UIMainMenuHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIMainMenuHandler.cpp; path = ../Classes/UIMainMenuHandler.cpp; sourceTree = "<group>"; };
+		A37F93071835B393007DAFAC /* UIMainMenuHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIMainMenuHandler.h; path = ../Classes/UIMainMenuHandler.h; sourceTree = "<group>"; };
+		A37F93081835B393007DAFAC /* UIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIManager.h; path = ../Classes/UIManager.h; sourceTree = "<group>"; };
+		A37F93091835B393007DAFAC /* UIQuestMenuHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIQuestMenuHandler.cpp; path = ../Classes/UIQuestMenuHandler.cpp; sourceTree = "<group>"; };
+		A37F930A1835B393007DAFAC /* UIQuestMenuHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIQuestMenuHandler.h; path = ../Classes/UIQuestMenuHandler.h; sourceTree = "<group>"; };
+		A37F930B1835B393007DAFAC /* UIRankingMenuHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIRankingMenuHandler.cpp; path = ../Classes/UIRankingMenuHandler.cpp; sourceTree = "<group>"; };
+		A37F930C1835B393007DAFAC /* UIRankingMenuHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIRankingMenuHandler.h; path = ../Classes/UIRankingMenuHandler.h; sourceTree = "<group>"; };
+		A37F930D1835B393007DAFAC /* UIStatusMenuHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIStatusMenuHandler.cpp; path = ../Classes/UIStatusMenuHandler.cpp; sourceTree = "<group>"; };
+		A37F930E1835B393007DAFAC /* UIStatusMenuHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIStatusMenuHandler.h; path = ../Classes/UIStatusMenuHandler.h; sourceTree = "<group>"; };
+		A37F93181835B4F6007DAFAC /* _kiss_fft_guts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = _kiss_fft_guts.h; path = FFTW/_kiss_fft_guts.h; sourceTree = "<group>"; };
+		A37F93191835B4F6007DAFAC /* CFft.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CFft.cpp; path = FFTW/CFft.cpp; sourceTree = "<group>"; };
+		A37F931A1835B4F6007DAFAC /* CFft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CFft.h; path = FFTW/CFft.h; sourceTree = "<group>"; };
+		A37F931B1835B4F6007DAFAC /* CFftBasic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CFftBasic.cpp; path = FFTW/CFftBasic.cpp; sourceTree = "<group>"; };
+		A37F931C1835B4F6007DAFAC /* CFftBasic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CFftBasic.h; path = FFTW/CFftBasic.h; sourceTree = "<group>"; };
+		A37F931D1835B4F6007DAFAC /* CFftw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CFftw.h; path = FFTW/CFftw.h; sourceTree = "<group>"; };
+		A37F931E1835B4F6007DAFAC /* fftw3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fftw3.h; path = FFTW/fftw3.h; sourceTree = "<group>"; };
+		A37F931F1835B4F6007DAFAC /* kiss_fft.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = kiss_fft.c; path = FFTW/kiss_fft.c; sourceTree = "<group>"; };
+		A37F93201835B4F6007DAFAC /* kiss_fft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = kiss_fft.h; path = FFTW/kiss_fft.h; sourceTree = "<group>"; };
+		A37F93211835B4F6007DAFAC /* kiss_fftr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = kiss_fftr.c; path = FFTW/kiss_fftr.c; sourceTree = "<group>"; };
+		A37F93221835B4F6007DAFAC /* kiss_fftr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = kiss_fftr.h; path = FFTW/kiss_fftr.h; sourceTree = "<group>"; };
+		A37F93271835C1B8007DAFAC /* UIBattleTurn.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = UIBattleTurn.cpp; path = ../Classes/UIBattleTurn.cpp; sourceTree = "<group>"; };
+		A37F93281835C1B8007DAFAC /* UIBattleTurn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBattleTurn.h; path = ../Classes/UIBattleTurn.h; sourceTree = "<group>"; };
 		A382591B1827BE9500059E91 /* ParallaxNodeExtra.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ParallaxNodeExtra.cpp; path = ../Classes/ParallaxNodeExtra.cpp; sourceTree = "<group>"; };
 		A382591C1827BE9500059E91 /* ParallaxNodeExtra.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ParallaxNodeExtra.h; path = ../Classes/ParallaxNodeExtra.h; sourceTree = "<group>"; };
 		A382591E182890DB00059E91 /* WalkDetectorNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WalkDetectorNode.cpp; path = ../Classes/WalkDetectorNode.cpp; sourceTree = "<group>"; };
 		A382591F182890DB00059E91 /* WalkDetectorNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WalkDetectorNode.h; path = ../Classes/WalkDetectorNode.h; sourceTree = "<group>"; };
 		A3825921182895DF00059E91 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework; sourceTree = DEVELOPER_DIR; };
-		A3851F9E182FE60E00E233D3 /* green_edit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_edit.png; sourceTree = "<group>"; };
-		A3851FA8182FED4F00E233D3 /* Done.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Done.wav; sourceTree = "<group>"; };
 		A385B472182A48BE004AE828 /* fftw3f.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = fftw3f.a; path = ../../../../../../of_v0.7.4_ios_release/libs/fftw/osx/fftw3f.a; sourceTree = "<group>"; };
 		A385B474182A48D7004AE828 /* fftw3f.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = fftw3f.a; sourceTree = "<group>"; };
 		A39070511830AC4200544C05 /* tinyxml2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tinyxml2.cpp; sourceTree = "<group>"; };
 		A39070521830AC4200544C05 /* tinyxml2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tinyxml2.h; sourceTree = "<group>"; };
 		A390705B1830B45800544C05 /* MeshBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = MeshBuffer.cpp; path = ../Classes/MeshBuffer.cpp; sourceTree = "<group>"; };
 		A390705C1830B45800544C05 /* MeshBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MeshBuffer.h; path = ../Classes/MeshBuffer.h; sourceTree = "<group>"; };
-		A3A59305182A72A2001CF2CB /* fftw3f.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = fftw3f.a; path = ../../classes/fftw3f.a; sourceTree = "<group>"; };
-		A3C2D134183110DD001AB0A7 /* Yamen.network */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Yamen.network; sourceTree = "<group>"; };
 		A3D7D35518252FD000B579C3 /* MainMenuLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = MainMenuLayer.cpp; path = ../Classes/MainMenuLayer.cpp; sourceTree = "<group>"; };
 		A3D7D35618252FD000B579C3 /* Helpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Helpers.h; path = ../Classes/Helpers.h; sourceTree = "<group>"; };
 		A3D7D35718252FD000B579C3 /* CommonLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CommonLayer.cpp; path = ../Classes/CommonLayer.cpp; sourceTree = "<group>"; };
@@ -371,7 +404,6 @@
 				1AF4C2F417865DCB00122817 /* libbox2d iOS.a in Frameworks */,
 				1AF4C2F517865DCB00122817 /* libchipmunk iOS.a in Frameworks */,
 				1AF4C2F617865DCB00122817 /* libcocos2dx iOS.a in Frameworks */,
-				A3A59306182A72A2001CF2CB /* fftw3f.a in Frameworks */,
 				1AF4C2F717865DCB00122817 /* libcocos2dx-extensions iOS.a in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
@@ -429,23 +461,16 @@
 		15AA9C4015B7EC450033D6C2 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				A390705A1830B43D00544C05 /* Objects */,
+				A37F92FC1835B37D007DAFAC /* UI */,
+				A390705A1830B43D00544C05 /* Game */,
 				A38259141827BE8300059E91 /* Nodes */,
+				A3F9E7F8181976A000E80FE6 /* Scenes */,
 				A3D7D35618252FD000B579C3 /* Helpers.h */,
 				A3D7D35718252FD000B579C3 /* CommonLayer.cpp */,
-				A3D7D35F18252FD000B579C3 /* WalkDetectorScene.h */,
-				A3D7D35818252FD000B579C3 /* WalkDetectorScene.cpp */,
 				A3D7D35918252FD000B579C3 /* Helpers.cpp */,
-				A3D7D35A18252FD000B579C3 /* MainMenuLayer.h */,
-				A3D7D35518252FD000B579C3 /* MainMenuLayer.cpp */,
-				A3D7D35B18252FD000B579C3 /* SplashLayer.cpp */,
-				A3D7D35D18252FD000B579C3 /* SplashLayer.h */,
-				A3D7D35C18252FD000B579C3 /* SceneManager.h */,
-				A3D7D36018252FD000B579C3 /* SceneManager.cpp */,
 				A3D7D36118252FD000B579C3 /* CommonLayer.h */,
 				A3D7D35E18252FD000B579C3 /* AppDelegate.cpp */,
 				A3D7D36218252FD000B579C3 /* AppDelegate.h */,
-				A3F9E7F8181976A000E80FE6 /* Scenes */,
 			);
 			name = Classes;
 			path = ../classes;
@@ -569,9 +594,6 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A3C2D134183110DD001AB0A7 /* Yamen.network */,
-				A3851FA8182FED4F00E233D3 /* Done.wav */,
-				A3851F9E182FE60E00E233D3 /* green_edit.png */,
 			);
 			name = Resources;
 			path = ../Resources;
@@ -580,33 +602,13 @@
 		A3091A2F182A587E00E9FA49 /* libs */ = {
 			isa = PBXGroup;
 			children = (
-				A3A59305182A72A2001CF2CB /* fftw3f.a */,
+				A37F93171835B4E0007DAFAC /* FFT */,
 				A39070511830AC4200544C05 /* tinyxml2.cpp */,
 				A39070521830AC4200544C05 /* tinyxml2.h */,
 				A33F4AD1182F71CC001888ED /* FANN */,
-				A3091A3B182A58C900E9FA49 /* CFft.cpp */,
-				A3091A3C182A58C900E9FA49 /* CFft.h */,
-				A3091A3D182A58C900E9FA49 /* CFftBasic.cpp */,
-				A3091A3E182A58C900E9FA49 /* CFftBasic.h */,
-				A3091A3F182A58C900E9FA49 /* CFftw.cpp */,
-				A3091A40182A58C900E9FA49 /* CFftw.h */,
-				A3091A30182A587E00E9FA49 /* fftw3.h */,
-				A3091A31182A587E00E9FA49 /* kiss */,
 			);
 			name = libs;
 			path = ../Classes/libs;
-			sourceTree = "<group>";
-		};
-		A3091A31182A587E00E9FA49 /* kiss */ = {
-			isa = PBXGroup;
-			children = (
-				A3091A32182A587E00E9FA49 /* _kiss_fft_guts.h */,
-				A3091A33182A587E00E9FA49 /* kiss_fft.c */,
-				A3091A34182A587E00E9FA49 /* kiss_fft.h */,
-				A3091A35182A587E00E9FA49 /* kiss_fftr.c */,
-				A3091A36182A587E00E9FA49 /* kiss_fftr.h */,
-			);
-			path = kiss;
 			sourceTree = "<group>";
 		};
 		A33F4AD1182F71CC001888ED /* FANN */ = {
@@ -628,9 +630,56 @@
 			name = FANN;
 			sourceTree = "<group>";
 		};
+		A37F92FC1835B37D007DAFAC /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				A37F92FD1835B393007DAFAC /* QuestItemWidget.cpp */,
+				A37F92FE1835B393007DAFAC /* QuestItemWidget.h */,
+				A37F93011835B393007DAFAC /* UIBattleAttack.cpp */,
+				A37F93021835B393007DAFAC /* UIBattleAttack.h */,
+				A37F93031835B393007DAFAC /* UIBattleStatusBar.cpp */,
+				A37F93041835B393007DAFAC /* UIBattleStatusBar.h */,
+				A37F93051835B393007DAFAC /* UIEvents.h */,
+				A37F93061835B393007DAFAC /* UIMainMenuHandler.cpp */,
+				A37F93071835B393007DAFAC /* UIMainMenuHandler.h */,
+				A37F93081835B393007DAFAC /* UIManager.h */,
+				A37F93091835B393007DAFAC /* UIQuestMenuHandler.cpp */,
+				A37F930A1835B393007DAFAC /* UIQuestMenuHandler.h */,
+				A37F930B1835B393007DAFAC /* UIRankingMenuHandler.cpp */,
+				A37F930C1835B393007DAFAC /* UIRankingMenuHandler.h */,
+				A37F930D1835B393007DAFAC /* UIStatusMenuHandler.cpp */,
+				A37F930E1835B393007DAFAC /* UIStatusMenuHandler.h */,
+				A37F93271835C1B8007DAFAC /* UIBattleTurn.cpp */,
+				A37F93281835C1B8007DAFAC /* UIBattleTurn.h */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		A37F93171835B4E0007DAFAC /* FFT */ = {
+			isa = PBXGroup;
+			children = (
+				A37F93181835B4F6007DAFAC /* _kiss_fft_guts.h */,
+				A37F93191835B4F6007DAFAC /* CFft.cpp */,
+				A37F931A1835B4F6007DAFAC /* CFft.h */,
+				A37F931B1835B4F6007DAFAC /* CFftBasic.cpp */,
+				A37F931C1835B4F6007DAFAC /* CFftBasic.h */,
+				A37F931D1835B4F6007DAFAC /* CFftw.h */,
+				A37F931E1835B4F6007DAFAC /* fftw3.h */,
+				A37F931F1835B4F6007DAFAC /* kiss_fft.c */,
+				A37F93201835B4F6007DAFAC /* kiss_fft.h */,
+				A37F93211835B4F6007DAFAC /* kiss_fftr.c */,
+				A37F93221835B4F6007DAFAC /* kiss_fftr.h */,
+			);
+			name = FFT;
+			sourceTree = "<group>";
+		};
 		A38259141827BE8300059E91 /* Nodes */ = {
 			isa = PBXGroup;
 			children = (
+				A390705B1830B45800544C05 /* MeshBuffer.cpp */,
+				A390705C1830B45800544C05 /* MeshBuffer.h */,
+				A37F92FF1835B393007DAFAC /* StackNode.cpp */,
+				A37F93001835B393007DAFAC /* StackNode.h */,
 				A382591B1827BE9500059E91 /* ParallaxNodeExtra.cpp */,
 				A382591C1827BE9500059E91 /* ParallaxNodeExtra.h */,
 				A382591E182890DB00059E91 /* WalkDetectorNode.cpp */,
@@ -643,18 +692,34 @@
 			name = Nodes;
 			sourceTree = "<group>";
 		};
-		A390705A1830B43D00544C05 /* Objects */ = {
+		A390705A1830B43D00544C05 /* Game */ = {
 			isa = PBXGroup;
 			children = (
-				A390705B1830B45800544C05 /* MeshBuffer.cpp */,
-				A390705C1830B45800544C05 /* MeshBuffer.h */,
+				A37F92F11835B36C007DAFAC /* CBattleCharacter.cpp */,
+				A37F92F21835B36C007DAFAC /* CBattleCharacter.h */,
+				A37F92F31835B36C007DAFAC /* CPlayerData.h */,
+				A37F92F41835B36C007DAFAC /* CQuestDescription.h */,
+				A37F92F51835B36C007DAFAC /* CQuestManager.cpp */,
+				A37F92F61835B36C007DAFAC /* CQuestManager.h */,
 			);
-			name = Objects;
+			name = Game;
 			sourceTree = "<group>";
 		};
 		A3F9E7F8181976A000E80FE6 /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
+				A37F92F91835B377007DAFAC /* QuestAlarmLayer.cpp */,
+				A37F92FA1835B377007DAFAC /* QuestAlarmLayer.h */,
+				A3D7D35F18252FD000B579C3 /* WalkDetectorScene.h */,
+				A3D7D35818252FD000B579C3 /* WalkDetectorScene.cpp */,
+				A37F92EE1835B357007DAFAC /* BattleLayer.cpp */,
+				A37F92EF1835B357007DAFAC /* BattleLayer.h */,
+				A3D7D35A18252FD000B579C3 /* MainMenuLayer.h */,
+				A3D7D35518252FD000B579C3 /* MainMenuLayer.cpp */,
+				A3D7D35B18252FD000B579C3 /* SplashLayer.cpp */,
+				A3D7D35D18252FD000B579C3 /* SplashLayer.h */,
+				A3D7D35C18252FD000B579C3 /* SceneManager.h */,
+				A3D7D36018252FD000B579C3 /* SceneManager.cpp */,
 			);
 			name = Scenes;
 			sourceTree = "<group>";
@@ -859,7 +924,6 @@
 				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
-				A3851FA9182FED4F00E233D3 /* Done.wav in Resources */,
 				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
@@ -869,8 +933,6 @@
 				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
 				5087E77E17EB970100C73F5D /* Default.png in Resources */,
 				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
-				A3851F9F182FE60E00E233D3 /* green_edit.png in Resources */,
-				A3C2D135183110DD001AB0A7 /* Yamen.network in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -890,27 +952,39 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3D7D36718252FD000B579C3 /* SplashLayer.cpp in Sources */,
+				A37F92F71835B36C007DAFAC /* CBattleCharacter.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				A3D7D36818252FD000B579C3 /* AppDelegate.cpp in Sources */,
 				A3D7D36318252FD000B579C3 /* MainMenuLayer.cpp in Sources */,
+				A37F93261835B4F6007DAFAC /* kiss_fftr.c in Sources */,
 				A33F4AF1182F71D8001888ED /* floatfann.c in Sources */,
 				A3D7D36918252FD000B579C3 /* SceneManager.cpp in Sources */,
+				A37F93241835B4F6007DAFAC /* CFftBasic.cpp in Sources */,
 				A39070531830AC4200544C05 /* tinyxml2.cpp in Sources */,
+				A37F93151835B393007DAFAC /* UIRankingMenuHandler.cpp in Sources */,
 				A3D7D36518252FD000B579C3 /* WalkDetectorScene.cpp in Sources */,
+				A37F93291835C1B8007DAFAC /* UIBattleTurn.cpp in Sources */,
+				A37F93121835B393007DAFAC /* UIBattleStatusBar.cpp in Sources */,
+				A37F93141835B393007DAFAC /* UIQuestMenuHandler.cpp in Sources */,
 				A33F4AC9182F5AA0001888ED /* WalkTrainingNode.cpp in Sources */,
-				A3091A37182A587E00E9FA49 /* kiss_fft.c in Sources */,
 				A3D7D36618252FD000B579C3 /* Helpers.cpp in Sources */,
-				A3091A42182A58C900E9FA49 /* CFft.cpp in Sources */,
+				A37F93111835B393007DAFAC /* UIBattleAttack.cpp in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				A382591D1827BE9500059E91 /* ParallaxNodeExtra.cpp in Sources */,
+				A37F92F01835B357007DAFAC /* BattleLayer.cpp in Sources */,
+				A37F93131835B393007DAFAC /* UIMainMenuHandler.cpp in Sources */,
+				A37F93251835B4F6007DAFAC /* kiss_fft.c in Sources */,
+				A37F92FB1835B377007DAFAC /* QuestAlarmLayer.cpp in Sources */,
 				A3825920182890DB00059E91 /* WalkDetectorNode.cpp in Sources */,
-				A3091A43182A58CA00E9FA49 /* CFftBasic.cpp in Sources */,
+				A37F93161835B393007DAFAC /* UIStatusMenuHandler.cpp in Sources */,
+				A37F93101835B393007DAFAC /* StackNode.cpp in Sources */,
 				A3D7D36418252FD000B579C3 /* CommonLayer.cpp in Sources */,
+				A37F93231835B4F6007DAFAC /* CFft.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				A390705D1830B45800544C05 /* MeshBuffer.cpp in Sources */,
-				A3091A44182A58CA00E9FA49 /* CFftw.cpp in Sources */,
-				A3091A38182A587E00E9FA49 /* kiss_fftr.c in Sources */,
 				A33F4ACE182F62A9001888ED /* WalkNodeBase.cpp in Sources */,
+				A37F92F81835B36C007DAFAC /* CQuestManager.cpp in Sources */,
+				A37F930F1835B393007DAFAC /* QuestItemWidget.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

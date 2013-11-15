@@ -18,7 +18,7 @@ namespace ChampionRun
 	{
 		m_character = c;
 		m_UILayer = extension::UILayer::create();
-		UIWidget*widget = CCUIHELPER->createWidgetFromJsonFile("ui/BattleUI.ExportJson", 0);
+		UIWidget*widget = CCUIHELPER->createWidgetFromJsonFile("UI/BattleUI.ExportJson", 0);
 
 		Layout* status = dynamic_cast<Layout*>(widget->getChildByName("StatusPanel"));
 		status->retain();

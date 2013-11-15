@@ -22,7 +22,7 @@ namespace cocos2d
 	{
 		if (!UIWidget::init())
 			return false;
-		UIWidget* widget = CCUIHELPER->createWidgetFromJsonFile("ui/QuestItemUI.ExportJson", 0);
+		UIWidget* widget = CCUIHELPER->createWidgetFromJsonFile("UI/QuestItemUI.ExportJson", 0);
 		if (!widget)
 			return false;
 		m_panelRoot = dynamic_cast<Layout*>(widget->getChildByName("QuestRoot"));

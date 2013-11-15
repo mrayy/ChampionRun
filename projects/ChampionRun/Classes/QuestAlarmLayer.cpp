@@ -5,6 +5,7 @@
 #include "QuestAlarmLayer.h"
 
 #include "MainMenuLayer.h"
+#include "SplashLayer.h"
 
 
 namespace ChampionRun
@@ -24,7 +25,7 @@ bool QuestAlarmLayer::init()
 		return false;
 
 	Size sz = Director::getInstance()->getWinSize();
-	Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("QuestAlarm.json", this);
+	Node* screen = (Node*)extension::SceneReader::getInstance()->createNodeWithSceneFile("Scenes/QuestAlarm.json", this);
 	screen->setAnchorPoint(Point(0, 0));
 	addChild(screen);
 	m_time = 0;
@@ -54,7 +55,7 @@ void QuestAlarmLayer::registerLoader()
 
 void QuestAlarmLayer::switchToNextScreen()
 {
-	Director::getInstance()->replaceScene(TransitionFade::create(2, MainMenuLayer::scene()));
+	Director::getInstance()->replaceScene(TransitionFade::create(2, SplashLayer::scene()));
 }
 
 void QuestAlarmLayer::onTouchesBegan(const std::vector<Touch*>& pTouches, Event *event)

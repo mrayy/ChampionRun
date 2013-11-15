@@ -18,7 +18,7 @@ namespace ChampionRun
 	{
 		m_listener = l;
 		m_UILayer = extension::UILayer::create();
-		UIWidget*widget = CCUIHELPER->createWidgetFromJsonFile("ui/BattleAttackUI.ExportJson", 0);
+		UIWidget*widget = CCUIHELPER->createWidgetFromJsonFile("UI/BattleAttackUI.ExportJson", 0);
 
 		m_UILayer->addWidget(widget);
 
