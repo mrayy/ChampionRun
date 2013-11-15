@@ -1,7 +1,7 @@
 <Armatures>
   <Armature>
-    <Name>Logo</Name>
-    <Path>ani/logo/LogoAnimation.ExportJson</Path>
+    <Name>LogoAnimation</Name>
+    <Path>ani/LogoAnimation.ExportJson</Path>
     <Scale>1,1</Scale>
   </Armature>
   <Armature>
@@ -26,7 +26,7 @@
   </Armature>
   <Armature>
     <Name>FatYusha</Name>
-    <Path>Characters/fatYusha.ExportJson</Path>
+    <Path>Characters/FatYusha.ExportJson</Path>
     <Scale>-0.8,0.8</Scale>
   </Armature>
 </Armatures>
